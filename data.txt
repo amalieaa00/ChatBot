@@ -1,0 +1,957 @@
+Drivhuseffekten
+Co2: Carbon: nødvendig og naturlig, fotosyntesen. 
+Carbonets kretsløp: carbonmengden i naturen, havet og atmosfæren er konstantCo2-en i atmosfæren tas opp av vann og planter, Derfra blir CO2en tatt opp av dyr, som gir den videre til atmosfæren. Co2 i van tas oppa av vannplanter, og blir derfra gitt videre til sf.eks fisk som igjen gir far seg Cot som blir tat opp av atmosfæren. Noe av denne Co2en lagres som fossilt brensel. Ble mer utslipp etter den industrielle revolusjon (30%). Fossilt brennstoff = slipper ut Co2. Dette fører til at det blir mer CO2 i omløp enn plantene kan ta opp Hoper seg drfor opp i atmosfæren, noe som får gjennomsnittstemperaturen på jorda tl å stige, pga drivhuseffekt.  Har svært lang levetid i atmosfæren, pga den i liten gard reagerer med andre stoffer. Er derfor avhengig av å bli tatt opp i carbonets kretsløp. Egner med 50% av utslippene forsvinner etter 100 år, resten kan bli igjen å åvirke i minst 1000 år. 
+Årsakr til drivhuseffekten. 
+Bølger fra sola varmer opp jorda, som sender lange varmebølger tilbake, blir stoppet av asser i atmosfæren. Nødvendig for livet på jorda, men laget av gassser blir tykkere, og holder dermed igjen for mye varme. 
+Problemer: økte temperaturer, økte endrede nedbørsmønstre, mer ekstremvær og tørke. Ikke alle skyldes menneskeskapte klimaendringer, men foorskere tror at de vil skje oftere i i fremtiden og at havnivået vil stige pga økte temperaturer. Isen vil smelte, og temperaturen i havet vil stige. 
+Gasser og drivhuseffekten: En liten del av atmosfæren består av Carbondioksid (CO2), men hvor mye en gass bidrar til drivhuseffekten, bestemmes ikke bare av hvor stor del av en gass som finnes i atmosfæren. Bare en prosent avgassene i atmosfæren fører til hele drivhuseffekten. Dette  er fordi mange av gassene er med på å ståppe strålingen fra sola med kortere bølgelengde. 
+Drivhusgasser:
+CO2 (fossilt brensel) 56%. 
+CO2 (avskogning mm.) 17%
+CH4 Metan: 14%
+N2O Lystgass: 7,9%
+CO2 andre: 2%
+PFK/HFK/SF6: 1,1%
+Hvor mye gassene bidrar til drivhuseffekten kan bli regnet ut ved å finne konsentarasjonen, absorbering av varmestråler og gjennomsnittlige tiden et gassmolekyl befinner seg i atmosfæren
+Metan (CH4): Konsentrasjonen av metan i atmosfæren har økt med 150% siden 1750, pga. jordbruk, avfall, olje og gassproduksjon, og ufullstendig nedbryting av biologisk materialet i i våtmarksområder som eks. rismarker. Holder seg i atmosfæren i 11 år. 
+N2= Dinitrienmonoksid, lystgass: Lang levetid og absorberer varmestråler effektivt,. Ett lystgassmolekyl absorberer 206 ganger så mye varme som et CO2 molekyl, ikke så mye økning, men litt, pga. konstgjøtsel og forbrenning av fossilt materiale. 
+KFK Klorfluorkarboner: Kunstige stoffer med lang levetid i atmosfæren og høy drivhusfaktor. Ett KFK molekyl bidrar like mye til drivhuseffekten som 6500 CO2 molekyler. Virker ødeleggende på ozonlageret. De er derfor i dag forbudt i mange land. 
+Andre faktorer
+Aerosoler: Større partikler, sot, støv eller dråper av saltvann. Mange kommer naturlig, men mennesker bidrar med å slippe ut fossilt brensel. Noen aerosoler bidrar til økning, mens andre senker drivhuseffekten. Kjølende effekt på klimaet, de vender også tilbake til jorden via f.eks. nedbør. 
+Vanndamp: største årsaken til drivhuseffekten, men skyldes ikke direkte menneskelig påvirkning, men vi påvirker indirekte. Drivhusgass: økto vanndamp, bidrar til høyere temperatur, som igjen fører til er vanndamp. Vanndamp kan føre til høyere temperatur, men skaper også et tettere skydekke, som kan forhindre innstråling fra sola. Kaster strålene tilbake til solen som ett speil, så mindre komemr ned ti jorda. Økt global dimming. 
+Global dimming: mengden solstråler som treffer jordoverflaten har sunket med en åttendedel de siste 50 årene: global dimming. Global dimming skyldes økt mengde aerosoler og skyer, som absorberer solstrålen, eller fører tillatt de blir ført tilbake til verdensrommet. Balanse mellom global oppvarming og dimming: fører temperaturen i hver sin retning, og forskere er redd for global dimming skal bli mindre, ettersom at at temperaturen da kan bli enda høyere en allerede fryktet. GD fører også til at til at det fordamper mindre vann fra jordoverflaten, til tross for at temperaturen har økt. 
+Selvforsterkende mekanismer: Albedo: forholdet mellom absorbert og reflektert lys. Mørke farger absorberer, imens lyse reflekterer = høy albedoverdi, ettersom at den reflekterer. Tundraen: permafrosten kan forsvinne = våtmark = nedbrytningen blir derfor ufullstendig = mer metan = økt drivhuseffekt. 
+
+
+Batterier: Flere sammensatte galvaniske elementer. Kjemisk energi blir omdannet til eletrisk energi. Første batteri: Volta, 1800, Voltasøylen. 1836: John Daniel lagde et enklere batteri, Danielelementet = galvanisk element, ble brukt i telegrafer, var store og tunge 
+Engangsbatterier
+Alkaliske: Har en negativ elektrode av zink, og en positiv av brunstein, blandet med kaliumhydroksid, som er basisk. Når en ledning blir koblet mellom de to elektrodene, vandrer elektroner fra far zink til brunstein, som er den strømmen vi utnytter. For å unngå at elektronene vandrer direkte fra den ene elektroden til den andre, er polene adskilt av en skillevegg, som bare slipper gjennom ioner. Nødvendig for å få en sluttet strømkrets når elektronene vandrer iden ytre ledningen. Fungerer godt i lave temperaturer, og beholder det samme energinivået gjennom hele sin levetid. De verken lekker eller inneholder miljøskadelige stoffer. 
+Litiumbatterier: Nesten alle batterier er i dag litiumbasserte, fordi et batteri fungerer bedre når stoffene i batteriet er langt unna hverandre i spenningsrekka. Litium står langt til venstre, og er verdens letteste metall. Kan gi spenning på rundt 3,6 volt. 
+Oppladbare batterier
+Disse er reversible, kan altså snus og gå motsatt vei. Oppladningen er en elektrolyse, må derfor ha likestrøm under oppladning. Strømmen fra stikkontakten er vekselstrøm, og laderne må derfor inneholde en komponent som omdanner vs til ls. Forskjellige typer, inneholdt før skadelige stoffer som bly og kvikksølv, men SFT har hatt som mål å dempe bruken av slike tungmetaller, litiumbatterier har overtatt mye for dem. 
+Oppladbare litiumbatterier: lette og tar liten plass, bare lengst mulig. Energitetthet: forholdet mellom energien som er lagret i batteriet, og vekten. Kan være like viktig at det tar liten plass, da er energitetthet forholdet mellom energi og volum 
+Brenselsceller
+Hydrogen reagerer med oksygen. Ti  vann, men skjer på en stille måte og energien som frigjøres blir direkte omdannet til strøm isteden for en eksplosjon. Første brenselcelle: 200 år siden, men først senere det har blitt interesse rundt dette. Fortsatt i utviklingsstadiet. El-biler på brenselscelle
+Hvordan fungerer den? Består av to halvdeler som er adskilt med en membran, som som er laget slik at den bare slipper gjennom ioner, og ikke elektroner. Disse blir derfor tvunget til å gå i en ytre krets der de kan levere elektrisk strøm. Hydrogengass blir ledet inn på den ene siden av brenselscellen. På elektroden blir gassen oksydert til H+ ioner og det sendes ut elektroner. Denne elektroden blir da positiv. På den andre siden, blir oksygengassen ledet inn, mer presist luften, som inneholder 21¤ oksygen. Denne fanger opp elektroner som kommer gjennom den ytre lederen og reagerer med H-Plusss ioner, som vandrer gjennom membranen. Oppsummering: Brenselscellen blir tilført hydrogen og oksygen fra lufta, for så å gi fra seg vann, elektrisk energi og varme. 
+Fordeler: mest gunstige for miljøet, og den har høy virkningsgrad, som vil si at en får mye ut av energien.. Bensinbiler utnytter eksempelvis kun ¼ av energien.Brencelscellen har 60%, arbeider også stille og varer lenge pga få bevegelige deler.  Brenselcellene kan også brukes i små apperater som mobiler, PCer og lokal kraftproduksjon. Trenger ikke bruke hydrogen, i mobiler er det eks. mer aktuelt å bruke metanol, ettersom at dette er en væske og at molekylene derfor er pakket tett sammen. Fordelen med dette er at dersom den går tom for strøm, kan du gylle tanken med metanol. Dersom det blir vanlig med en hydrogenproduksjon i stor skala, kan en se for seg at brenselsceller kan brukes til å produsere varme og strøm til hus. Hvert hus/nabolag kan da ha et kraftverk, som som er drevet av BC. 
+Hydrogen som energibærer
+Energibærer: energi som kan brukes på forskjellige tider, og på forskjellige stede. Eks. elektrisk batteri, bensintank, hydrogentank. 
+Mål: produsere hydrogen uten at det blir for kostbart eller skadelig for miljøet. 
+Gasser tar mye plass, men hydrogen er lettere enn de andre gassene. , som vil si at trykket er en atmosfære og temp 0 grader. Hydrogengass har dermed en tetthet på 90  g. per. Kubikmeter. 
+Biler mye arbeid igjen. Bilene med størst rekkevidde kan lagre 5 kg. Hydrogen under høyt trykk på tanker som kan holde 60 l. En mil på ti k hydrogen. Kan kjøre ca 50 ml. 
+Produksjon: hvor miljøvennlig en brenselcelle er, avhenger av hvordan hydrogenenblir produsert.  
+Hydrogengass: elektrolyse av vann, blir spaltet til oksygen- og hydrogengass. Vann er billig, miljøvennlig og gassen blir renere, ulempe: krever mye strøm. Bare 4% av produksjonen skjer på denne måten. 90% naturgass eller annet fossilt rensel. Denne blir som oftest varmet opp sammen med vanndamp eller luft: dampreformering. Foregår ved at metan og vanndamp ledes inn i en reaktor ved høy temp og under trykk. Lite miljøvennlig, pga metan og CO2 utslipp. 
+Lagring: må ta mindre plass, altså presses sammen. 
+Lagring i trykktank: høyt trykk for å presse sammen hydrogen, vanskelig å lage en som tåler så stort trykk. Spesielt materialet og mye eergi, derfor kostbart. 
+Væskeform: avkjøle og lavt trykk, -253 grader., ettersom at det er ved den tempen hydrogen kondenserer til veske. Flytende hydrogen må isoleres svært godt, forsvinner ut gjennom de fleste materiale
+Lagre i metaller: sikreste måten, metalhydrid, kjemiske Ulempe: dannes andre produkter enn vann, CO2 fra almojnjakk og VOZ-gasser fra metanol Mi
+Sikkerhet: Eksplosjon ve lekkasje. Viktig at det oppbevares forsvarlig. Ikke farligere enn bensin. Fordel: lett, vil stige lett til vers ved lekkasje. +mine miljøgunstig. forbindelser, dannes når hydrogengass reagerer med et metall, o må være i pulverform, ettersom at det da får stor overflate. Dette fører til at kontaktflaten mellom gass og metall er stor. Må også bruke trykk for å få gassen på plass i metallet. Fordel: faste stoffer,. Ulempe: tunge og kostbare. 
+Lagre i molekyler. Blir lagret kjemisk bundet til andre grunnstoff. To forbindelsesløse: Almonjak og metanol. Prøvebiler: stoffene reagerer kjemisk før de går inn i brenselscellen slik at cellen får hydrogen på vanlig måte. 
+
+Bioenergi
+Bioenergi: energi fra levende eller nylig levende organismer. Flis, bark. Blitt brukt i flere tusen år: ved og ild. 
+Miljøvennlig: Miljøvennlige enn forssilt brensel fordi vi ikke henter ut carbon fra et lager når en f.eks. brenner ved, bruker det som allerede er en del av kretsløpet. Erstattes av nye planter, som binder C=2 fra lufta, ingen ekstra utslipp.
+Fast form: Ved fortsatt viktigste energikilden for halve verdensbefolkningen, 14% av verdens energiforbruk. Ved: tradisjonell bioenergi. Oppvarming: tre energi. 
+Viktig med fullstendig forbrenning: dannes andre gasser ved for lite oksygen. Disse kan være giftige og miljøskadelige, og gir de mindre energi. Varmeannlegg: er mest aktuelt for store anlegg. Vannboren varme: vannet som blir varmet opp i forbrenningen fraktes rundt i rørr. Mindre ovner i hus: pellets eller briketter. 
+Former for bioenergi: matavfall, husdyrgjødsel, søppel. Kan behandles i store tanker uten oksygen, og dermed danner de metangass. Denne kan brennes til oppvarming og til å skape elektrisk energi, gårdsbruk og søppelplasser. Gårder: bruker også metan fra husdyr til oppvarming. Flytende bioenergi: som etanol eller biodiesel. Biodiesel: renere enn vanlig diesel, lages ved å bearbeide planteolje ved å presse ut den ut av planteslag som solsikke, furu og raps.  
+Solenergi: 
+: solenergi: når den utnyttes direkte, enten til oppvarming eller til å lage elektrisk energi. Nesten alt er opprinnelig solenergi. 
+Solvarmeanlegg: solen absorberes i solfangere, der vannet blir armet oppp og ledet videre til et varelageret.  Vannet blir varmeanlegget blir fraktet rundt i huset som en varmeskilde. Solfangere: kan legges i taket eller veggene på et hus. 
+Solceller: Omdanner solenergi til elektrisk energi Består av to cillisiumplater som ligger mot hverandre. Hvert Cil atom har fire elektroner i ytterskallet. Disse danner eletronparbindinger og får edelgassstruktur. Dermed er de ordnet i et perfekt krystallgitter, Denne kan ikke lede strøm ettersom at det ikke er noen frie atomer.   De er også tilsatt/dopet med andre stoffer. Den ene er dopet med fosfor, imens den andre er dopet med bor 
+Fosfor: grunnstoff, har fem elektroner i det ytterste skallet. Fire av disse danner elektronparbindinger med naboen, nemlig cilisiumatomer. Det femte elektronet vandrer fritt. Cil.platene som er dopet med fosfor, kalles N-type, fordi de har frie atomer. 
+Bor: har tre elektroner i det ytterste skallet. Disse vil danne elektronparbindinger med tre av fire av cillisiumatomene de er omkranset av. Krystallstrukturen blir ikke perfekt, ettersom at det mangler ett elektron rundt boratomene. I platene er det ledige hull for elektroner, som kalles positive hull. P-type: hordi hullene oppfører seg som en positiv ladning. 
+
+De to platene legges mot hverandre, og det skjer en vandring av elektroner i grenselaget mellom dem. Frie elektroner vandrer fra n platen til de positive hullene i P-platen. Denne vil bli negativt ladd, siden den mottar elektroner i grendelaget. Ladning fordelingen i grendelaget skaper et elektrisk felt. Dette feltet fører til at elektronene ikke lenger kan bevege seg fra N til P. Frie elektroner kan gå fra P til N.  Når lyset treffer solcellen, sparkes elektroner løs fra P-platen. Da blir det frie elektroner der det før bare var hull. Elektroner kan bevege seg over grendelaget i N platen, men på grønnn av grendelaget er det vanskelig for dem å bevege seg tilbake. De kan likevel komme seg tilbake ved å vandre i en ytre ledning som forbinder de to platene. Elektroner vil gå fra P til N, og tilbake gjennom ledningen, så lenge solen skinner på solcellepannelet. Dermed kan vi utnytte den elektriske energien som går gjennom ledningen  til f.eks. lading. 
+Varmepumper
+•	Normalt: Varmen strømmer fra steder med høy, til steder med lav temp. 
+•	Varmepumpe: gjør det motsatte ved hjelp av elektrisk energi. Henter energi fra eks. luft, vann eller jord, og overfører den kalde energien ti hus med høyrer temp Kaldt vann inneholder også utnyttbar varmeenergi. Når vanntemperaturen synker, gir den fra seg varmeenergi. Selv om varmepumpen trenger elektrisk energi for å få til dette, får en toganger så mye elektrisk energi igjen.  
+Hvordan den fungereer: varmepumpens kjerne er en transportkrets. I transportkretsen strømmer et stoff med lavt kokepunkta et lukket rørsystem. Dette stoffet kalles arbeidsmediet. Skifter på å være i gass og flytende form. Var vanlig med KFK-gasser. Ettersom at de nå er forbudt, brukes hydrofluorkarboner, HFK gasser, som er litt mindre miljøskadelige. Arbeidsmediet tvinges til til å fordampe og kondensere. Dette skjer bed hjelp av trykkendringer. 
+Utnytter tre fysiske lover: 
+1.	Trykkktemperaturloven: Tempen synker når en gass får lavere trykk, og stiger når trykket øker. 
+2.	Kokepunkt loven: Jo laveree trykk, jo lavere kkepunkt. Høyt trykk = høyt kokepunkt. Eks. Kan vann koke ved ti grader, derom trykket er lavt nokk. 
+3.	eske/gassloven: Når veske fordamper, bruker den energi fra omgivelsene til å bryte bindinger mellom molekyler, slike at de rives fra hverandre. En gass som kondenserer /blir til værsyke) gir far seg energi til omgivelsene. 
+Kompressoren: Arbeidsmediet kommer inn i denne som gass, blir der presset ammen slik at trykket øker og tempen stiger.  
+Kondensatoren: Gassen blir (kondenserer) til væske, og gir dermed fra seg energi til omgivelsen i form av varme. 
+Trykkreduksjonsventilen: trykket og tempen synker når arbeidsmediet passerer denne.  Dermed blir kokepunktet også lavere slik at det går tilbake til gassfase. 
+Fordamperen: Arbeidsmediet har nå lavere temperatur enn omgivelsene, som kan være utenfor boligen. Tempen stiger ikke, så lenge bæsjen fordamper Når alt har fordampet, derimot, stiger tempen i gassen. Energien til fordampningen, kommer fra omgivelsene, og den kan derfor fortsette så lenge omgivelsene har høyere temp enn  arbeidsmediet. Dette er nå tilbake til utgangspunktet, og kan nå gå på nytt gjennom inn i kompressoren. 
+
+
+Oppgave 4
+«Det Store Spelet» og «Veien Til Verdens Ende» - en sammenligning av to barneskildringer
+«Det Store Spelet» av Tarjei Vesaas fra 1934 og «Veien til Verdens Ende» av Sigurd Hoel fra 1933 er to romaner som begge handler om hvordan det var å vokse opp på gård i deres samtid. De ble begge skrevet på trettitallet, da forfattere og andre i samfunnet var opptatte av å undersøke hvordan barndommen kan påvirke et menneske gjennom hele livet. I denne oppgaven skal jeg sammenligne de to utdragene, med fokus på hvordan de skildrer hovedpersonene og miljøet rundt dem. 
+Utdraget fra «Det Store Spelet» åpner ved at hovedpersonen, Per, våkner på morgenkvisten av at moren går ut for å se til kua, som venter kalv. Da det viser seg at kalven er på vei, går hun inn for å hente Moster, som kommer ned i den kombinerte stua og kjøkkenet, der Per og resten av familien også sover. Per våkner helt og tenker med glede på at det kommer en ny kalv, ettersom at moren alltid lager pannekaker av råmelka på morgenen etter. Like før moster går ut, spør Per henne hva som skjer, selv om han vet at hun skal ut å hjelpe moren hans med kalven. Når Moster har gått ut, knubber Per bort i lillebroren, slik at han våkner og begynner å gråte. Dette vekker faren til Per, som er den eneste bortsett fra Botolv, som ikke har våknet på grunn av kalvingen. Faren blir irritert, ettersom han var ute til sent dagen før for å grave i jorden.
+Ett av de viktigste virkemidlene Vesaas bruker i romanutdraget, er personskildringer. Gjennom Pers øyne får en både direkte og indirekte skildringer av både han og de andre familiemedlemmene. Det er svært få direkte skildringer av Per. Det eneste en får vite, er at han er en seks år gammel gut, med små, stutte bein. Resten får en vite gjennom hans tanker, følelser og handlinger. Et godt eksempel på dette er hvordan han reagerer når han får vite at kalven er på vei. Han blir glad og tenker tilbake på de andre gangene kua har fått kalv. «Det første ein kom i hug, var pannekakene. Og så kalvedansen». Etter dette forteller han leseren om hvilke jønn de helt vil at kua skal ha. Hvis det er en Hank, skal den slaktes, hvis det er ei ho-ku skal de beholde henne slik at de får enda en ku som kan kalve.  Dette viser at Per føler at han passer inn og føler seg trygg på gården. Det viser også at de voksne på mange måter involverer Per i arbeidet på gården, at han er en del av det som skjer der, både av opp- og nedturer. Grunnen til dette finner en i romanutdragets tittel: «Du skal være på Bufast all din dag». Det er nemlig allerede bestemt hva Per skal gjøre når han vokser opp. Han skal ta over familiens gård.  Selv om Per virker trygg, kan en som leser også merke en usikkerhet i hovedpersonen. Denne kommer til uttrykk i hvordan han ser på og oppfører seg mot broren, Botolv. «Og så hadde han auga som gjorde at Per somtid kjende seg mindre og yngre. Botolv hadde auge som dei vaksne. Per likte dei ikkje». Det er tydelig at Per føler på en usikkerhet ovenfor Botolv. At Per også, selv om han beskriver broren som liten og rolig, føler seg truet av han. Selv om en ikke får vite hva,  skjønner en at det er noe som ikke er som det skal med Botolv. Han er tre år og liten for alderen, men har sluttet å vokse. Det er nærliggende å tenke at han er syk og at det er derfor han haret vitende og voksent blikk. Et blikk Per ikke liker. Grunnen til dette kan være at Per følger at broren vet noe ikke han vet, og at dette er noe vanskelig og vondt som Per helst ikke vil tenke på. En kan også se konturene av en annen konflikt i romanutdraget, nemlig forholdet mellom  Pers far og hans arbeid. Pers far er ofte svært sliten, og taus når han kommer inn eter en lang dag med gravearbeid. Per forteller i utdraget at faren alltid graver i jorden. Er han ferdig med å grave et sted, finner han alltid et nytt. Dette har han gjort så lenge Per kan huske. Pers far graver mer enn det som er nødvendig. Selv om en  aldri får vite hvorfor han holder på slik, er det lett å dra paralleller mellom farens overdrevne arbeid og Botolv sine problemer. Vesaas skrev denne boken på begynnelsen av 30-tallet, da det ikke var akseptert å snakke om følelser i like stor grad som i dag. Som mann var normene om å ikke snakke om følelser ekstra sterke. Faren bruker derfor gravingen for å få utløp for bekymringen for Botolv, og andre innestengte følelser.
+Et annet viktig virkemiddel Vesaas bruker, er miljøskildringer. Utdraget skildrer livet på en liten, norsk gård. Utdraget beskriver miljøet gjennom Per, og inneholder både direkte og indirekte skildringer av omgivelsene. Som leser får en vite at rommet har en kjølig gråfarge når det har begynt å lysne, og at de fleste av familiemedlemmene sover i den kombinerte stua og kjøkkenet. Handlingen foregår tidlig en vårmorgen da kua på gården er i ferd med å få en kalv. Dette er en situasjon som er vanlig på en gård. Ettersom familien ikke har noen tjenestefolk som jobber for seg, må de ut å se til kua selv. Dette er en situasjon som nok var svært gjenkjennelig for mange av 1930-tallets lesere, da en større prosentandel levde av gårdsdrift enn i dag. En forstår ut ifra dette, samt at fem av familiens medlemmer por på samme rom, at karakterene i romanutdraget ikke er spesielt velstående. En får heller ikke inntrykk av at de lever i fattigdom, eller har noen store mangler. De er, med andre ord, en vanlig, norsk bondefamilie på begynnelsen av 1930-tallet.   Disse skildringene er med på å gi utdraget et realistisk preg.
+Et annet element som i stor grad bidrar til dette, er språket og synsvinkelen Vesas har valgt å bruke. Utdraget er skrevet i tredjeperson, men fra Pers synsvinkel. Dette får leseren til å leve seg inn i teksten på en helt annen måte. Dette er også med på å gi leseren en bedre forståelse av hvordan det var å være et barn på en gård i denne tidsepoken. For at denne synsvinkelen skal være troverdig, er setningene korte og nokså enkle. Vesaas bruker også mye komma, for å illustrere hvordan den lille gutten tenker.  «Her var ikkje morgonen, for her var skumt, og så var her våren, då er morgonen lys». Vesaas bruker få metaforer og sammenligninger, men når han først gjør det, er det for å vise hvordan Per opplever stemningen og personene rundt seg i øyeblikket. Et eksempel på dette, er hvordan han beskriver farens stemme. Han sammenligner den med «Jorda han grav i støtt». Dette forteller leseren at farens stemme er dyp og rumlende, men at den samtidig kan virke langt borte. Vesaas bruker også besjeling: «Rutene glodde svarte tilbake». Likevel er disse eksemplene unntaket heler enn regelen når det gjelder språket i romanutdraget.  Beskrivelser av personer og interiør er kun til stede for å gi leseren en så realistisk og konkret fremstilling av 1930-tallets bondeliv som mulig. Utdraget er skrevet  i kronologisk rekkefølge, men har noen få digresjoner, som når Per reflekterer over broren, eller farens arbeid. Det består for det meste av tankereferater, men Vesaas bruker også en del dialog for å beskrive situasjonen. Alt dette bidrar til at synsvinkelen virker realistisk.
+En annen type barneskildring får en i utdraget fra «Veien Til Verdens Ende» av Sigurd Hoel. Det er ingen konkret handling i utdraget. Det starter ved at Anders, som er bokens hovedperson, våkner av at vinden blåser. Etter dette består resten av utdraget av et tankereferat som fungerer som en introduksjon inn i Anders sitt liv. Vi får vite at han ser seg selv som midten av verden. De nærmeste tingene er også de «største». Når de går, blir de mindre, for deretter å bli borte. Unntaket er moren. Anders gråter når hun går. Deretter begynner Anders å tenke over alt som er farlig, før han deretter går over til å reflektere over hva som tilhører hans verden, og hva som tilhører de stores. Anders føler også et eierskap til de små tingene, som grisunger og linerlen ved trappen. Han kan forstå hva de sier, selv om ingen andre kan.
+En viktig del av romanutdraget, er hvordan Hoel beskriver hovedpersonen. Det er ingen direkte skildringer av han. Det eneste leseren får vite, er navnet, at han er et ungt barn og at han er redd for mye. Dette får vi derimot bare vite gjennom skildringer av Anders sine tanker og følelser. Som nevnt tidligere, ser Anders på seg selv som midtpunktet av verden. Når ting forsvinner fra hans umiddelbare, fysiske nærhet, forsvinner de også raskt fra tankene hans.  Dette gir leseren et inntrykk av at Anders er et veldig ungt barn. Anders føler på mye frykt. Mange av de tingene Anders er redd for, er knyttet til overtro og myter, som for eksempel at det bor nisser og store, svarte hunder i de rommene der han aldri har vært. Da boken ble utgitt i 1933, var det vanlig å få barn til å ikke gjøre ting ved å skremme dem med slike historier. Med dette utdraget illustrerer Hoel hvor stor innvirkning slike historier kan ha på små barn. De kan bli reddere og mer usikre på verden en det som er nødvendig. Noe det kan være vanskelig for en voksen å forstå, ettersom at en da har flere erfaringer og et større perspektiv å gå ut ifra. Alt Anders er redd for, har en ting til felles, De er alle ting som er ukjente. «Det han ikke kjenner, står langt borte og er farlig og truer han. Men det han kjenner, står nær ved og hjelper ham». Selv om han er redd for mye, viser dette sitatet at han på mange måter er et trygt barn. Han føler seg ikke truet eller usikker rundt familie og andre i hans nærmeste krets, men av det som er større enn han selv og som han ikke har kontroll over. Anders liker å ha kontroll over omgivelsene sine. Han lever i sin egen verden under bordplaten, som han mener deler verden i to. Alt som får plass under bordet lever i hans verden, imens de som er høyere enn den, lever i de stores verden «Det er så underlig der oppe hos de store – så høyt til værs, og så langt borte fra alt». Anders er trygg i sin verden, og når han kommer utenfor den, enten ved at han går for langt unna huset, eller ved at han blir løftet over bordplaten, føler han seg fremmed og usikker.
+En annen sentral del av utdraget, er miljøskildringene. Handlingen foregår på en gård. Gjennom Anders sine beskrivelser får en vite at den er stor, med mange rom og at den ligger ved havet. Like ved huset har familien også en låve, en drengestue og flere uthus. De har også flere ansatte på gården.  Anders er altså en del av en nokså velstående familie. Selv om det jobber mange voksne på gården som Anders føler seg trygg på, virker det ikke som at han har et nært forhold til dem. Han beskriver dem, med innsikt, men likevel med en viss distanse. «De store kommer inn så det dundrer i gulvet (…) de tramper og skraper med støvlene og skraper og roper  med grovt mål og gliser og ler og eter». Han er ofte rundt dem, men har ellers ikke noe mer med dem å gjøre. Han er også nokså utenfor det daglige livet på gården, og bruker mye tid på å tenke og på å være i sin verden.
+Utdragets komposisjon er også viktig. Hoel skriver i tredjeperson, men det er likevel fortalt fra Anders sin synsvinkel. Det er lite konkret handling i utdraget og det  har ingen tradisjonell oppbygging. Utdraget består av tankereferat. De eneste konkrete handlingsforløpene er at Anders våkner av vinden og at han ser på de voksne tjenestefolkene spise og prate. Hoels setninger er enkle , men nokså lange. Selve språket er mer abstrakt, og forfatteren bruker ofte språklige bilder som besjeling. «…Og den store klokken som står ved veggen i kjøkkenet hele dagen og sier «And-ers, And-ers.» Han bruker også symboler for å illustrere hvordan den lille gutten tenker. «Den nikker med alle stråene og vifter med grenene på bjerken og farer videre på store vinger. (…) Den farer til verdens ende». Ettersom at Anders, i følge han selv, står i midten av verden, fungerer vinden som farer frem og tilbake fra verdens ende som et symbol på hvordan han ser verden. Vinden er et symbol på frykten, men også fascinasjonen og undringen Anders føler når det gjelder det som er utenfor han selv.  Gjentakelser og kontraster er også til stede i utdraget. Tre av avsnittene starter med setningen «I midten av verden» etterfulgt av et sted der hovedpersonen føler seg trygg. Dette henger også sammen med kontrasten i teksten, nemlig den mellom det trygge og kjente, og utrygge og fremmede, mellom det som tilhører han og det som tilhører de store.  Disse kontrastene er svært viktige når det kommer til hvordan hovedpersonen opplever verden. Ved å gjenta denne setningen understreker forfatteren i tillegg de trygge delene av hovedpersonens liv, og hvor grunnleggende viktige de er for hans identitet og tilhørighet.
+Utdragene fra «Det Store Spelet» og «Veien Til Verdens Ende» har mange likheter og forskjeller. De skildrer begge to, små barn og hvordan de opplever menneskene og verden rundt seg.    Begge bøkene ble utgitt i samme tidsepoke, og har samme tema, nemlig hvordan det er å vokse opp på en gård. Selv om de to utdragene har samme tema, har de valgt å fremstille det på to svært forskjellige måter. En av de største forskjellene mellom de to utdragene, er hovedpersonene. Imens Per er nysgjerrig og uforsiktig, er Anders usikker og redd for verden. De reagerer også ulikt på det som er ukjent. Som leser får en inntrykk av at Per er en nokså spontan person som liker når det skjer nye ting. Dette står i sterk kontrast til Anders, som har en mer rolig personlighetstype. Han trives best i kjente og trygge omgivelser, og blant de han kjenner. I motsetning til Per, blir han usikker når det skjer noe uforutsett.  Både Vesaas og Hoel skildrer livet på en gård. Likevel  er miljøene de skriver om  forskjellige. I «Det store Spelet» skildrer Vesaas en liten, tradisjonell gård, imens Hoel skildrer et større gårdsbruk der det bor flere en bare enn hovedpersonens familie. På grunn av dette, er Anders alltid omgitt av voksne. Likevel lever han nokså ekskludert fra dem. Per må klare seg mer selv, ettersom at det er færre voksne på gården. I tillegg er det forventet at Per skal ta over gården, «du skal være på bufast all din dag» og han er derfor mer involvert i det som foregår der. De to romanutdragene har også svært ulikt språk, men bruker samme type synsvinkel. I utdraget fra «Det Store Spelet» bruker Tarjei Vesaas et realistisk og enkelt språk, som består både av tankereferater og dialog. Sigurd Hoel, derimot, bruker et abstrakt språk i utdraget fra «Veien Til Verdens Ende». Utdraget fra boka består kun av et tankereferat, og Hoel bruker språklige bilder som metaforer og besjeling  for å få frem hvordan hovedpersonen tenker. De to utdragene er bygd opp på forskjellige måter. «Det Store Spelet» er skrevet i kronologisk rekkefølge, med få avsporinger. Imens «Veien Til Verdens Ende» ikke har en konkret oppbygging eller handling. Dette, i tillegg til miljø- og personskildringene, bidrar til at hensikten med de to utdragene kommer tydelig frem. Med «Det Store Spelet», har Vesaas som mål å skildre livet på en gård på en så realistisk og nøyaktig måte som mulig. Han er også opptatt av å få frem hvordan det var å vokse opp i et slikt miljø. Der Vesaas har som mål å skildre et miljø, er Hoel mest opptatt av å skildre et menneske. Han vil få frem hvordan den lille gutten tenker på en så realistisk måte som mulig. Han er mindre opptatt av omgivelsene rundt, og fokuserer heller på hvordan disse har påvirket Anders. For han er det viktig å få frem at hva de voksne sier, kan ha stor innvirkning på små barn, som ofte bruker fantasien til å gjøre ting større og ofte farligere enn de er. 
+Kilder: 
+Det Store Spelet av Tarjei Vesaas, utgitt i 1934
+Verden Til Verdens Ende av Sigurd Hoel, utgitt i 1933
+Det hastar – eit kåseri om barndom, tid og andre slike ting
+Det hastar å bli vaksen. Det hastar faktisk sjukt mykje. Men, altså, kva vil det eigentleg seie å bli vaksen? Eg veit ikkje. Det fyrste eg tenkjer på når eg høyrar ordet «vaksen», er pengar. Alt handlar plutseleg om pengar. Jo, og selvfølgeleg, om barn. Det held eg nesten på å gløyme. Ein skal helt ha eit slikt eit også, og helst meir enn eit, og mindre enn 5. Kva med fire, da? Nei? Litt mange det også, eigentleg. Å få fire barn, er nesten like ille som å få gfem. Om ein får så mange barn, er sjansen nemleg ganske stor for at ein som forelder blir utbrent, og når ein blir utbrent, så kan ein ikkje jobbe, og når ein ikkje jobbar, bidrar ein ikkje til å oppretthalde den økonomiske balansen i landet. Så, kor mange barn burde ein skaffa seg, om ein vil unngå slike problemstillingar? Eit er for få, fire er for mange, for ikkje å snakke om fem. Kva med… tre barn?! Tre barn er bra. Om ein skaffar seg tre barn, bidrar ein slik at den norske befolkninga fortsett å veksa. Også er det samstundes mindre sjans for at ein blir utbrent, selvfølgeleg. To barn, då? To barn er jo perfekt! To barn. Helst ein gut og ei jente, slik at ho kan jobbe innafor helsevesenet og han kan bli ingeniør eller noko slikt. Barn må ein i kvart fall ha. Og pengar, sjølvsagt. 
+ Fort, fort! Det hastar, vaksenlivet altså. Kvitor hasta det så, kven veit. Foreldra vil at barna deira skal bli vaksne. Eller, rettare sagt, dei vil at dei skal bli ein bestemt type vaksen. Kva slags type vaksen foreldra vil at barna skal bli, er svært varierande. Nokon foreldre vil at barna skal bli som dei sjølv. Dette er eit fenomen eg, og sikkert dei fleste andre også, har observert. Er foreldra legar, vil dei at barna skal bli lege. Er dei glade i politikk, vil dei at barna skal gå i demonstrasjonstog og skulke skulen for klimaet og slike ting. Det er ikkje så veldig rart, når ein tenkjer over det. Men, om ein er forelder, må ein passe seg for at ting ikkje går heilt over styr.  Kva då, om foreldra  jobbar for NASA, eller er Beyonce. Då slitar ein faktisk ganske mykje. Dei vaksne seier det hastar å få barndomen unnagjort, slik at barna kan flytte ut, og foreldra kan gå inn i den etterlengta midtlivskrisa og kjøpe seg hytte på fjellet og starte på yogakurs, der dei lærar at  det einaste som hastar er å vite at dei lever og at livet, det er her og no.
+Så, til no har vi lært at barn blir til for at dei skal bli vaksne. Barn skal bli vaksne for å bli nyttige for samfunnet. Nyttige  for samfunnet, kva er det? Å være nyttig for samfunnet kan bety ganske mykje, om ein fyrst tenkjer over det. Kriminelle, for eksempel. Dei er nyttige for samfunnet på mange måtar. Dei bryt lova, og fordi dei bryt lova må staten tilsette politifolk, som kan arrestere dei, og fengselsbetjentar som kan passe på at dei ikkje rømmer frå fengsel, og miljøterapeutar, psykologar, fengselsprestar og lærarar som kan hjelpe dei tilbake i samfunnet. Kriminelle skapar med andre ord, ganske mange arbeidsplassar. Det er det ingen som tenkjer på. Mange barn er i tillegg redde for dei kriminelle. Ein må passe seg for kriminelle, lærar ein. Dette kan foreldre bruke til å få barna til å gjera leksene «gjer leksene dine, barn». Om ein ikkje gjer skulearbeidet sitt, kan ein begynne i henge etter på skulen og forsking har bevist at det er ein større sjanse for å bli kriminell. Effektivt, ikkje sant. Moralsk forkasteleg? Kanskje, men kva gjer ein ikkje, for at barna skal bli gode samfunnsborgarar? 
+Les leksene deira, barn. Det er stor konkurranse i verda i dag. Kva denne konkurransen eigentleg handlar om, er svært vanskeleg å svare på. Men, sidan eg fyrst er i gong, kan eg vel like godt prøv. Når ein er barn, forventast det at ein skal veks opp så fort som mogleg. Foreldrane samanliknar sine eigne barn med andre sine heile tida. Dei samanliknar kven som lærer å gå fyrst, prate fyrst, lese fyrst og slik fortsett det, heilt til dei byrjar å konkurrere om kven sine barn som er best på fotballen, skulen, kven som går på det beste studiet og kven som har den beste jobben. Dei seier til barna at dei byrjar å bli store. Den setninga gjorde meg sjukt stressa, hugsar eg. Eg hugsar at eg tenkte at det å vere vaksen, virka drit kjedeleg. Dei snakka berre om trafikken på vegane og sporten på TV og andre ting eg ikkje forstod greia med. Eigentleg, forstår eg den framleis ikkje, men la gå. 
+Konkurransen, det var det eg snakka om. For det har seg nemleg slik at det ikkje berre er foreldra som konkurrerer om kven sine barn som er best. Som altfor gamle psykologiske teoriar har lært oss, barna hermar etter foreldra sine. Dei tar etter korleis foreldra pratar, går og eter. Etter kvart, når dei sjølv har bitt vaksne, fortsett dei med denne herminga. Dei fortsett, med andre ord, konkuransen til foreldrane sine. Berre tenk deg at du sit der, ein gong midt i livet ditt. Du har nesten den beste jobben i av alle vennane dine, og framtidsutsiktene er betre enn nokon gong. Men, det er som alltid, eit problem du berre ikkje kan ignorere. Problemet dukka fyrst opp da du forstod at du berre Nesten hadde den beste jobben ut av alle vennane dine. Verda falt litt, men berre litt saman den dagen. Men berre litt, for du veit at sjølv om Hopp Gundersen har blitt direktør, er det framleis håp. Stillinga hans kan jo bli ledig, på ein eler annan måte. Kanskje han seier den opp, eller kanskje han får ungar. Kanskje han blir sjuk? Du skammar deg over den siste tanken. Du vil ikkje han skal bli alvorleg sjuk, berre litt, slik at du kan komme som ein reddande engel, og redde bedrifta frå konkurs, for alle bekymra seg sånn når Gundersen blei sjuk, for kva skulle dei gjere utan ein skikkeleg direktør? Det er slik k|onkurransen fungerer. 
+Det hastar, det veit du, for det seier jo alle, og det har dei alltid sagt. Plutseleg ein dag, skjedde det noko inne i sjela de. Det var eit sjokk. Det var tross alt lenge sidan sist. Kva er dette, hugsar du at du tenkte. Alt rundt deg verka plutseleg meiningslaust. Du forstod framleis ikkje kva det var som gjekk av deg. Var det midtlivskrisa? Det måtte vere midtlivskrisa, tenkte du, berre sånn for å få litt meir ro i deg. Om det var midtlivskrisa visste du akkurat kva som måtte til. Du gjekk inn på internett, der du bestilte den nyaste Teslaen. Det var ikkje berre på grunn av midtlivskrisa, sa du til deg sjølv. Som du hadde forklart til kona di, var det tross alt nokre år sidan sist du hadde skaffa deg ny bil no, så det var jo på tide. Bilen kom, alle blei sjølvsagt drit misunnelege på deg. Det var du i kvart fall heilt sikker på. Men det hjelpte ikkje. Du gjekk inn på nettet igjen. Så på hytter. Hytter på fjellet, hytter ved sjøen, hytter ved skogen og hytter i skogen. Det hjelpte heller ikkje. Du kjente desperasjonen og ein vaksande uro byrje å sett seg i deg. Kva om det ikkje var midtlivskrisa, men noko som var verre? Det er tross alt, vanskeleg å vite slikt, nokre gongar. Når det har gått ein god stund, og du framleis ikkje har forstått kva dette nye er for noko, skjer det noko nytt. Noko som mange før deg har opplevd, og som mange etter deg også vil oppleve, men som likefram er nokre av det skulmlaste du har opplevd. Spørsmål byrjar å trengje seg på, og ikkje berre slike vanlege spørsmål som kor lenge det er til du får lønna di, eller kva for skule du skal sende ungen din på for at han skal ha størst mogleg sjans til å bli siviløkonom, nei, andre spørsmål, som du ikkje eigentleg veit svara på. Kvifor hastar det så? Kva hastar? Døden? Nei, ikkje døden, det kan ikkje vere den. Etter det du har høyrt, er jo døden ganske kjip. Om det ikkje er døden, kva er det då? Det heile endar opp med at du gjer noko som er så klisjé at du nesten ikkje veit kor du skal gjere av deg. Du meldar deg på eit kurs, i Mindfullness. På kurset lærar du å puste, djupt, inn og ut. Du hatar å innrømme det for deg sjølv, men all den pustinga byrja å forandre deg. Du forandrar deg på måtar du ikkje trudde var mogleg. Forandringa er til og med meir drastisk enn den han på jobben din gjekk gjennom i fjor haust, da han sa til alle i lunsjen at han hadde sagt opp stillinga si som advokat for å byrja å jobbe i kommunen. På fritida di har du byrja å dra aleine til parken for å sjå på sommarfuglane. Sommarfuglane faktisk. Du har også kjøpt deg ei bok om sjølvhjelp. Den er skikkeleg klisjé, men du likar ho. Det står slikt som «Karpe Diem» og «vær den beste utgåva av deg sjølv» og sjølvsagt «livet er no». Dette siste tenkjar du ofte på om dagane. Du kjøper gåver til kona di, reis på tur med ungen din og alt det der. Du lever i harmoni og her og no og alt det andre du har lest i boka og lært på kurset i mindfulness. Men, du tviheld på noko av det dei vaksne sa da du var barn. Det er jo tross alt stor konkurranse i verda i dag, og du skal aldrig byrja å jobbe i kommunen. 
+ 
+Hvorfor gjør gutter det dårligere på skolen enn jenter, og hva kan gjøres for å utjevne disse forskjellene?
+I dagens samfunn blir det ofte sagt at det er menn som styrer verden. De eier nesten alle de største firmaene, og har de høyeste poitiske possisjonene. Historisk er det menn som har tjent penger, og tatt beslutninger, både i sin egen familie, og i samfunnet. Kvinner har opp igjennom blitt undertrykt, og derfor ikke fått de samme mulighetene som menn. På åttitallet snakket vi om at jentene ble oversett til fordel for guttene i norsk skole. På 2000-tallet har derimot diskusjonen snudd. I løpet av de siste årene har det kommet rapporter som indikerer at gutter gjør det dårligere på skolen enn jentene, både i Norge og verden. I Norge er disse forskjellene større enn i mange andre land i Europa. Hvorfor er det slik, og hva kan skolen og samfunnet gjøre for å redusere disse forskjellene? I denne oppgaven vil jeg se nærmere på noen  årsaker ti kjønnsforskjellene i skolen i dag, og fokusere på hvordan lesing innvirker på gutters læring. Jeg vil også drøfte noen tiltak, som kan bidra til en utjevning av disse forskjellene. 
+Så, hvor store er egentlig disse forskjellene? Ifølge SSB lå gutters karaktersnitt fra grunnskolen på 39,7, altså lavere enn jentenes, som lå på 4,3.   Kjønnsforskjellene fortsetter både i den videregående skolen og i høyere utdanning. Ifølge SSB velger flere gutter yrkesfag enn jenter, som svært ofte velger en av de  studieforberedende linjene. Dette gjenspeiles også i høyere utdanning, der bare fire av ti studenter er menn. På studier som juss, psykologi og medisin, der karakterkravene for å komme inn er svært høye, er det ifølge forskning.no en vesentlig høyere andel kvinnelige studenter. Gutter dropper i tillegg mye oftere ut av videregående enn jenter. I løpet av de siste årene, har denne tematikken fått stor oppmerksomhet i mediene, og forskere og andre har kommet med teorier om hvorfor det er slik. Likevel har de ikke klart å finne ett tydelig svar. 
+En av de mest kjente forklaringene på dette, er feminiseringshypotesen. Denne teorien går ut på at skolesystemet bygger på feminine verdier som ikke gutter kan kjenne seg igjen i. Tilhengerne av denne teorien mener at, grunnet den store andelen kvinnelige lærere, oppstår en favorisering av egenskaper og verdier som tradisjonelt er sett på som feminine. De peker på at atferd som stillesitting, selvstendig arbeid og det å ta imot beskjeder er sentrale verdier i dagens skolesystem. Tilhengerne av denne teorien mener derfor at jenter blir premiert for sin atferd, imens gutter blir sett ned på. Forskere har de siste årene gått bort fra Feminiseringshypotesen, og fokuserer i stede på andre, mer nyanserte teorier.    
+Selv om feminiseringshypotesen har blitt tilbakevist, er det likevel elementer av dem det er umulig å overse. For det første, får faktisk gutter bedre karakterer enn jenter i standpunkt. Som nevnt tidligere i oppgaven, ligger jentene foran guttene når det gjelder dette. Ifølge SSB  har det vært en forbedring i karakterene hos begge kjønn de siste ti årene. Likevel har det ikke vært noen endring i kjønnsforskjellene på denne tiden. Det er mange og sammensatte årsaker til dette. En av dem kan være sammenhengen mellom faglige og sosial kunnskap i skolen.  Selv om gutter får lavere standpunktkarakterer enn jenter, skårer de likevel bedre på eksterne tester som eksamener og nasjonale prøver. Dette betyr at lærere ofte gir gutter dårligere karakterer i subjektive vurderingsituasjoner der de vet elevens kjønn, enn i eksterne, der elevens kjønn er ukjent for sensor. En forklaring på dette kan være gutters atferd på skolen. Ifølge en forsker på høyskolen i Innlandet, har jenter lettere for å tilpasse seg skolens sosiale normer, enn gutter. Eksempler på disse normene kan være å jobbe selvstendig med oppgaver, sitte stille i klasserommet, samarbeide godt med lærere og medelever og det å følge regler og instruksjoner fra lærere eller andre voksenpersoner. (2) Ifølge artikkelen premierer lærerne denne atferden med å gi bedre resultater på f.eks. prøver, noe som dermed gagner jentene. Dette vil si at jenter og gutters faglig prestasjoner kan være like gode, men ettersom at jentene er bedre til å følge skolens normer, får de automatisk bedre resultater. Artikkelen understreker at dette ikke er noe lærerne gjør bevisst, men at på grunn av at jenter generelt viser en større vilje til å følge skolens normer, blir de vurdert som mer kunnskapsrike enn gutter som ikke klarer dette. Å si at alle jenter følger skolens normer og dermed får gode karakterer, imens alle gutter ikke klarer eller vil det, er selvfølgelig feil. Det er mange jenter som heller ikke følger skolens normer, og dermed opplever den samme forskjellsbehandlingen som mange gutter. 
+En annen forklaring på at gutter gjør det dårligere på skolen enn jenter, er deres holdning til lesing. Om barn begynner å lese tidlig, eller blir lest for av foreldre i barndommen, har de en stor fordel når de starter på skolen. Barn som leser mye, har også større ordforråd og tar dermed lettere til seg kunnskap både på og utenfor skolen . Forskning viser at det er store kjønnsforskjeller når det kommer til leseferdigheter hos norske elever. Gutter gjør det i gjennomsnitt dårligere på for eksempel nasjonale prøver i lesing enn jentene. Det er store forskjeller innad i gruppene, men en artikkel fra utdanningsforskning.no slår fast at det er relativt få gutter blant de beste leserne . De tydeligste forskjellene ligger i hvor gode elevene er til å lese skjønnlitteratur og lengre kompliserte tekster. Disse har jenter generelt lettere for å lese og forstå. Gutter kommer derimot bedre ut når det gjelder å lese tekster som appellerer til dem, har en hovedperson de kan kjenne seg igjen i samt tekster der informasjonen er lett tilgjengelig. De er, med andre ord, mye flinkere til å forstå punktlister, grafer og annen skriftlig informasjon som inneholder tall. I tillegg gjør gutter det bedre på tekster der de kan jobbe systematisk med å finne konkrete fakta Det har kommet flere teorier om hvorfor gutter kommer dårligere ut en jenter når det gjelder lesing. En av dem er at gutter i mindre grad er opptatte av aktiviteter som gå ut på ordforståelse. I artikkelen blir det foreslått at aktiviteter som innebærer lesing og ordforståelse skal være obligatoriske i barnehagen, noe de ofte ikke er. Når barna får muligheten til å velge selv, velger jenter rolige aktiviteter, som for eksempel leker som går ut på ord og lesing, imens gutter oftere elger fysiske aktiviteter. Dette er med å bidra til å øke forskjellen mellom kjønnene når det gjelder lesekompetanse.
+ En annen løsning kan være å gjøre lærere og andre som jobber med barn mer bevisste på hvilke litteraturer barna, spesielt guttene, blir eksponert for. Selv om det er stor variasjon innad i de to gruppene, er det likevel mulig å si noe generelt om hva gutter og jenter liker å lese.   Generelt liker jenter bøker som handler om mellommenneskelige relasjoner, som forhold til familie, vennskap og kjærlighet. Gutter er der imot mer glade i bøker med en større grad av ytre handling, spenning og humor. Ettersom at gutter generelt har mindre motivasjon enn jenter, er det ekstra viktig at lærere er oppmerksomme når det kommer til hva mange gutter trenger i en bok for å sette pris på den. I følge masteroppgaven til spesialpedagogikkstudent Gry Nyrud Skeie ved Universitetet i Oslo «Gutter og lesemotivasjon. En kvalitativ studie om hvorfor gutter skårer dårligere på lesetester en jenter, og et tiltak som virker»»5 intervjuer oppgaveforfatteren flere gutter i barneskolealder om deres lesemotivasjon. Flere av guttene oppgir at de legger lite tid og energi i det å finne en god bok som passer for de. De blir ofte sendt på biblioteket alene for å finne en bok, ofte under sterkt tidspress. Forfatteren forklarer videre at mange skoler ikke har egen skolebibliotekar, og at elevene derfor er avhengige av læreren for å få hjelp til å finne en passende bok, dersom de trenger det. Lærere har ofte alene ansvar for klasser med opptil tretti elever, noe som gjør det enklere for de mindre motiverte elevene å snike seg unna og dermed finne en bok som enten er altfor enkel, eller altfor vanskelig for dem. Ofte blir også elevene pålagt å lese tekstene i læreboka. Disse tekstene er utfordrende for gutter med dårlig lesemotivasjon, ettersom at de ofte er lange og abstrakte, og dermed appellerer mer til jenter. 
+Dette er også representativt for bøker. I masteroppgaven ser Skeie på alle barne- og ungdomsbokutgivelser i 2011. Hun oppdaget av de fleste av disse er det vi kaller klassiske jentebøker, men hun fant også mange som kunne appellere til gutter. Problemene lå i bøkenes omslag. Disse hadde ofte farger og motiver som fikk guttene til å se på boken som feminin, selv om innholdet kunne passe godt for gutter. Dette kan vitne om en bokindustri som retter seg mest mot jenter. Det er lett å tenke at forlagene bevisst lager omslag som appellerer mer til jenter, ettersom at det er de som tradisjonelt leser mest bøker. Dette bidrar til å opprettholde mønsteret. Gutter vil ikke lese bøkene fordi de ser for feminine ut, noe som fører til at gutter ikke kjøper bøker, som igjen påvirker forlagenes markedsføringsstrategier i en mer feminin retning. Dermed oppstår en ond sirkel. 
+En annen grunn til at gutter er dårligere til å lese en jenter, kan være at de ser på lesing av skjønnlitteratur som noe feminint. Skeie skriver i oppgaven at mange gutter ikke verdsetter litteratur, ettersom det virker meningsløst og irrelevant for deres interesser og fremtid. De verdsatte med andre ord praktiske ferdigheter som å kunne mekke moped vesentlig høyere.  Ifølge masteroppgaven, er gutter svært opptatt av sin maskuline identitet. En maskulin identitet er for mange gutter det å ta avstand fra ting de ser på som feminine, som for eksempel å danse ballett eller lese bøker. Det å lese bøker truer altså gutters maskuline identitet. Derfor har mange gutter et behov for å ta avstand,. Dette kan de for eksempel gjøre ved å omtale en bok de har lest på skolen som kjedelig og teit, dersom jentene i klassen omtaler boka som spennende og interessant. Oppgaven forklarer at det er vanskeligere for gutter å gjøre noe de mener er feminint, enn det er for jenter å gjøre noe tradisjonelt maskulint. Oppgaven understreker også at dette ikke bare er et leseproblem, men også et samfunnsproblem. Dersom gutter ikke leser, har de større sjanse for å gjøre det dårligere på skolen. Dårlige leseferdigheter er også vanlig blant dem som dropper ut av videregående skole, noe som er mer vanlig blant gutter enn jenter. Lesing er også avgjørende for å forstå verden, og det å delta i et demokrati. 
+Selv om disse årsakene er svært viktige å være bevisst på, mener forskere på dette temaet at det ikke er kjønn som er det mest avgjørende for om en gjør det bra på skolen, eller ikke. Ifølge utdanningsforskning.no, er sosial bakgrunn og foreldrenes eget utdanningsnivå og holdningene deres til skole mye viktigere. Artikkelen kritiserer fokuset på kjønn og skoleprestasjoner det siste årene, og mener at forskning som kun  fokuserer på dette har endt opp med resultater som det er vanskelig å finne forklaringer på. Mange mener også at fokuset på bare kjønn bidrar til at de store forskjellene blant elevene ikke kommer tydelig nok frem. Det er vært stort sprik i jenters faglige resultater, og mange gutter er også svært flinke på skolen.  Det er også variasjoner i hvordan ting utenom det faglige på skolen påvirker gutter og jenter. Forskning har vist at gutter blir mer påvirket av vanskelige livssituasjoner som problemer hjemme, fattigdom eller mobbing, enn det jenter blir.   Dersom gutter opplever slike ting er det med andre ord vanskeligere for dem å  oppnå gode skoleresultater, enn det er for jenter i slike situasjoner. 6 
+Til tross for uenigheter om hvor mye betydning kjønn har for skoleprestasjoner, er det likevel enighet om at det er store kjønnsforskjeller i skolen i dag. I løpet av de siste årene har det kommet mange ulike forslag til løsninger på disse problemene. Et av de mest radikale, er å innføre rene gutte- og jenteskoler. Tilhengerens av dette forslaget, argumenterer med at gutter og jenter lærer forskjellig. Imens jenter lærer mer av åpne oppgaver, stort ansvar for egen læring og mye samarbeid, lærer gutter bedre av å løse konkrete, faktabaserte oppgaver, i tillegg til konkurranser og mye fysisk aktivitet.  På Boys Academic Leadership Academy i USA lærer gutter på det mange vil kalle deres premisser. Undervisningen er svært preget av konkurranse, og guttene blir oppfordret til  å gjøre ting som å kaste papirlapper oppi en søppeldunk for å svare på spørsmål, noe som på en tradisjonell skole hadde strittet imot alle normer. Elevene er friere enn på en vanlig skole, og aktiviteter som snøballkasting blir ikke sett ned på av rektoren. Han mener at slike aktiviteter er naturlige for gutter. Ifølge han føler gutter seg mer hjemme på skolen dersom interessene deres ikke blir sett ned på. Når gutters atferd ikke blir anerkjent, føler ikke guttene at skolen er et sted der de kan høre til eller prestere. Dersom denne atferden blir mer normalisert, mener rektoren, vil guttene ha lyst til å dra på skolen og presterer dermed på et høyere nivå.  Elevene har også gym hver dag, og elevene blir oppfordret til å utfolde seg kreativt. Mange har kritisert slike skoler for å fremheve det maskuline så sterk. De mener at guttene blir opplært på en svært militant måte, og at dette vil fremheve kjønnsstereotypier. På en negativ måte. På en annen slik skole, er de svært uenige i disse påstandene. Der driver elevene med alt fra kunst og poesi, til sløyd og romfart. Elevene mener at det å bare være gutter på skolen har motsatt effekt. De sier at fraværet av jenter bidrar til at guttene tør å utfolde seg på en annen måte. Et eksempel på dette er at et av årene, hadde kapteinen på fotballaget også hatt hovedrollen i skolens årlige teateroppsetning. Noe mange av elevene på skolen mener ikke ville ha skjedd på en ordinær skole. 
+Det er mye usikkerhet rundt om disse skolene er bedre for elevene. Statistikk (8) viser at elevene på disse skolene ofte får bedre karakterer enn elever på andre skoler. Likevel er det vanskelig å si noe sikkert, ettersom at mange kjønnsdelte skoler også er private. På private skoler går det fest elever med rike foreldre som kan betale mye i skolepenger. Ettersom at elever med rike foreldre statistisk gjør det bedre på skolen enn de som ikke har det, er det mer nærliggende å tro at forskjellen ligger i sosial bakgrunn, og ikke i kjønn. Forskere har kommet fram til at kjønnsdelte skoler ikke har stor effekt når det gjelder akademiske resultater, men de kan fungere bra for å fremme sosioemosjonelle faktorer som selvtillit og mestring.  Mange er nå enige om at det beste er å sette i gang tiltak som minker kjønnsforskjeller i den ordinære skole. (7) 
+Det har blitt satt i verk tiltak på skoler, der de har klart å redusere kjønnsforskjellene. Ifølge forskning.no har det blitt gjennomført en studie i flere norske fylker der de har fått dette til.  De kom frem til at alle disse tiltakene ikke bare reduserte kjønnsforskjeller, men også bidro til økt trivsel og bedre resultater for alle elevene. Et av dem, er å ha en inkluderende kultur på skolen. Dette vil si at lærerne ser alle elever, og møter dem der de er. For å få til dette er det viktig at alle lærere og andre ansatte på skolen har felles verdier og mål som de prøver å strekke seg etter.  Ved å ha en inkluderende skolekultur svekker en også de strenge normene i skolen, og det blir større aksept for at mennesker oppfører seg forskjellig. Istedenfor å bli sett ned på, på grunn av sin oppførsel, kan gutter (og jenter) som for eksempel sliter med å sitte stille. få hjelp til å takle problemene sine. Det er viktig å understreke at også skoleledelsen må ha disse holdningene. I følge Bakke Hansen ved NOVA er ledelsens rolle avgjørende for å redusere forskjellen mellom kjønnene i skolen.  ettersom at de var med på å sette tonen for hvordan skolen deres skulle drives, samt sikret nødvendige ressurser. Selv om det er positivt for elevene med aksept og færre strenge normer, er det like viktig for dem at lærerne er tydelige ledere. Ifølge rapporten til bakke Hansen, hadde skoler med lærere som var tydelige ledere, god effekt på alle elever. Dette vil si at lærerne setter tydelige grenser, og har høye, men realistiske forventninger til alle elever. Det var også viktig at skolen og lærerne klarte og bygge gode klassemiljøer. Dette vil si at alle følte seg verdsatt, uavhengig av kjønn og andre variabler. Lærerne var på disse skolene opptatt av å bygge relasjoner, både mellom lærer og elev, og mellom elevene som gruppe. Rapporten pekte også på at skolene burde satse mer på lærerstyrt heller enn individstyrt undervisning. Som vist tidligere i oppgaven, mener mange forskere at gutter lærer bedre på skolen, dersom læreren styrer undervisningen, og guttene får konkrete ting de skal jobbe med, istede for den mer individstyrte skolen mange har etterspurt de siste årene, ettersom at denne måten å lære på gir en svært stor fordel til jentene. Undersøkende undervisning var også en undervisningsform som ga guttene mer motivasjon på skolen. Dersom formålet med undervisningen var å undersøke noe, gjorde guttene det bedre enn dersom målet var å reflektere. Undersøkende arbeid gav også motivasjon til å lese mer, noe som er svært viktig for spesielt guttenes deltakelse. God kjønnsblanding i klassen er viktig for både jenter og gutters skoleresultater, ifølge rapporten. Selv om kjønnsdelte skoler og klasser kan være bra for noen, viser rapporten at en likevekt av gutter og jenter i en klasse er det beste for alle elever. Dette, sammen med god kontakt mellom skolen, hjemmet og andre arenaer barn har en tilhørighet til, har vist seg å være effektive grep for å ikke bare redusere kjønnsforskjeller, men også for å skape et godt læringsmiljø for alle elever. 
+
+Kilder
+
+Formelle språk og grammatikker:
+Regulært utrykk:  Mengden av regulære utrykk over et alfabet A = er induktivt definert som den minste mengden slik at..
+-	Vi har to spesielle reg utrykk. Det tomme språket, og et som representerer den tomme strengen. Ø og DTS.
+-	Input er regulære utrykk, får ut et regulært språk over et alfabet. 
+-	Dersom du har et tegn a, er dette et regulært utrykk i seg selv. 
+Hvis R og S er regulære utrykk. Vi kan sette () rundt det regulære utrykkket, isse brukes for å gruppere. Forsjellige utrykk sammen, ® = samme som når det ikke har parantes, men dersom vi har et tegn som ‘ eller+, viser parantesene at dette tegnet gjelder for det som er inne i parantesene  R|S=, Reller S. Regulære språk: Mengder , induktivt definert, asismengden er det tomme språkt. En kan gøjre operasjoner på språk:union,konkatenering: Konkatenere: eks, konkatenere a med bb: sette dem inntil hverandre, abb. På språk vil dette bli{a,b]{1,0], Når en konkatenerer disse to mengdene av strenger får vi, a0,a1,b0,b1.  . {aa,bb]{a,c] = aaa,aac,bba,bbc.  Rekkefølgen spiller en viktig rolle. Dersom vi gjør det i en annen rekkefølge, får vi elementer i den ene mengden som ikke er i den andre, eks i denne mengden har vi aac, dette er ikke det samme elementet som caa. . 
+Den tomme mengden og den tomme strengen: dtm inneholder null strenger, den tomme strengen, er et element i en mengde, Den er altså noe. Samme som forskjellen på DTM og en mengde som inneholder tallet0.  Vi kan sette dets med andre ting. DTM satt sammen med en mengde b blir bare b. En mengde med DTS bog {a,b] blir derimot( ,a)/ ,b) altså den tomme strengen satt sammen me elementene fra b.  Tilukking: Dersom vi har et språk L, blir L^0 = mengden som består av den tomme strengen. L^1 = L. L¨2 = L konkatenert med L. L^3 = LLL altså eks hvis L = ab,c: L^2 = aaa,aab,aac,aba,abb,abc osv. Rekursiv definisjon: L^n+q= |1 ln konkatenert med L. Å konkatenere er assosiativt. L stjerne, er unionen av alle strengene over språket. Uendelig mange strenger dersom språket har mer enn et tegn 
+
+Endelige tilstandsmarskiner: Deterministisk. En tilstandsmaskin består av tilstander, starttisltand, tar inn tegn7strenger, itererer på en måte gjennom den, starter med det første og går til det siste. Slutt/aksepterende tilstand. En tilstandsmaskin kan enten akseptere, eller ikke akseptere en streng. Eks strengen 0111: Tar først 0, kommer i tilstanden 1, og går i løkke der fire ganger maskinen s aksepterer strenger som slutter på 1, så denne blir da akseptert. 1010 blir ikke det, siden den aldri kommer til den aksepterende tilstanden. 
+Formelle grammatikker: symboler og produksjonsreglerSymoboler S og T, produksjonsreglene kan si at S->x og T->Y.  Terminale og ikke-terminale symboler: Der det stiooer, de tegnene som kommer fra alfabetet. Ikke-terminale: Plassholdeere, store bokstaver eks A eller B. 
+Naturlig deduksjon: bevismetode, har en rekke formelle regler, dersom du har P og P->Q, kan du konkludere med Q, pil eliminasjon. Dersom d har P, Q,  kan du knkludere med P og Q. og introdukjsjon.. Dersom du har P, kan du konkludere med PvQ. Eller introduksjon.  En utledning består av et tre som igjen består av formler. Overgangen mellom formlene kalles slutninger fra reglene. 
+
+
+Prøve i geografi
+Kap 3 – berggrunnen
+Mineraler og bergarter
+•	Bergarter inneholder en eller flere typer mineraler. Z
+•	Hvert mineral består av en sammensetning av flere kjemiske stoffer, måten atomene er organisert på i mineralet bestemmer hvordan krystall foren blir. 
+•	Jord: all løs jordmasse, som er opphavet til dyrking av mat, består av bergarter. 
+•	Mineralene inneholder næringsstoffer som blir tatt opp gjennom plantenes røter. 
+•	Dersom bakken under jorda inneholder mange forskjellige mineraler, får en et næringsrikt jordsmonn. 
+Indre og ytre krefter
+Indre krefter: oppstår ved at varme fra jordas indre strømmer mot overflaten. 
+Ytre krefter: Energi fra solen og tyngdekraften driver de ytre kreftene. Denne driver havets kretsløp, havstrømmer og vinder på jordoverflaten. Ytre krefter som former landoverflaten.  Elver, isbreer, bølger, vind og forvitring. 
+Forvitring: bergartene smuldrer opp. Løsner deler av berggrunnen.  Forvitring bidrar til at erosjonen går lettere. 
+Erosjon: Andre ytre krefter bidrar også til å gnage løs deler, samtidig som de fører bort løsmasser for deretter å avsette dem andre steder.  
+Bergartenes kretsløp: Nedsliting, omdanning og smelting. Går svært langsomt (flere millioner år). Både indre og ytre krefter, samt platedrift, erosjon og avsetning av løsmasser.  Bergartene er delt inn i tre gruper utifra hvordan de er dannet. 
+Bergarter
+Magmatiske: Størknet steinsmelte. Flytende stein: magma: kan ha en temp på over 1000 grader. Magmaen blir avkjølt, og størkner dermed til en magmatisk bergart. Dannes der plater kolliderer, men også der de glir fra hverandre. Denne bergarten er delt inn i tre undergruper, basert på hvor i jordskorpen steinene størknet.
+•	Dag: stivner på utsiden av fjellet. Størknet lava mineralene rekker ikke å vokse seg store, ettersom at lavaen størkner etter kort tid (timer eller dager). De er altså finkornede. 
+•	Gang: de som stivner i en av de tre passasjene., som ofte har vært tilførselsted for vulkanene på jordoverflaten. 
+•	Dyp: Har stivnet under fjellet, har størknet langsomt, som har gitt mineralene muligheten til å vokse, større korn, grovkornede. 
+
+Metamorfe: Magmatiske eller sedimentære bergarter som har blitt omdannet ved trykk, varme eller kjemisk påvirkning. Dette kan skje når eks. når to jordskorpeplater kolliderer, eller når varm smelte trenger opp fra jordens indre. Varmen fører til omdanning av bergartene rundt. Bergartene blir omdannet jo sterkere påvirkningen fra disse er. Ekselmpel: Bergarten fylitt er omdannet leirskifer. Leirskiferen har blit utsatt for stort trykk, og dermed blitt til denne metamorfe bergarten. Sandstein omdannes til kvartsitt. Marmor er opprinnelig kalkstein som har blitt utsatt for sterk varme. Gneis: en metamorf bergart som er så omdannet at en ikke enda har klart å identifisere den opprinnelige bergarten. 
+Norsk berggrunn
+•	Norge ligger på jordskorpeplata Baltica. 
+•	Denne har gjennom jordas historie flyttet seg rundt på jordoverflaten, noe som har ført til klimaforandringer gjennom tidene. 
+•	Dette har påvirket hvilke ytre krefter som har påvirket jordskorpeplaten.  
+•	Fordelingen av land og hav har også forandret seg mye-. Eks. deler av jordskorpen var i oldtiden dekket av hav. 
+•	Baltica har også kollidert med andre jordskorpeplater. 
+•	Alt dette har ført til dannelse av mange forskjellige bergarter. 
+Grunnfjell
+•	Definisjon: bergarter som ble dannet i urtida. Dette er de eldste bergartene.
+•	 De fleste bergartene i grunnfjellet er metamorfe bergarter og den vanligste av disse er gneis. 
+•	Dette er fordi det i løp av urtiden var mange platekollisjoner. 
+•	Kollisjonene har ført til at bergartene har blitt omdannet gjentatte ganger. 
+•	Magmatiske bergarter som granitt er også vanlige i grunnfjellet. 
+•	Det er få sedimentære bergarter. 
+Kambrosiluriske bergarter. 
+•	Definisjon: sedimentære bergarter. Disse ble avsatt på havbunnen under oldtiden, da havet dekket store deler av landet. 
+•	De ble til ved at elvene transporterte store mengder leire, sand og grus fra land, og førte dem til havet. 
+•	Disse ble avsatt på bunnen av havet, der de bleom dannet til leirsjefer sandstein og konglomerat. 
+•	Koraller dannet kalkavsetninger, som etter hvert ble til tykke lag av kalkstein. 
+Kaledonsk follesone: 
+•	Den nord-Amerikanske og Eurasiske platen kolliderte i oldtiden (400 mil år siden) 
+•	Disse var kontinentplater. 
+•	Kollisjonssonen var det som i dag er vestkysten av Norge. 
+•	På grunn av dette ble den kaledonske fjellkjeden dannet. 
+•	Fjellkjeden er oppkalt etter et område i Skottland som også er en del av fjellkjeden. 
+•	Fjellkjeden er nå borte, men den har hatt stor betydning for stor betydning for berggrunnen i store deler av landet vårt. 
+•	De sedimentære bergartene på havbunnen ble presset sammen da de to kontinentplatene ble presset sammen. 
+•	Dette førte til at bergartene ble sterkt omdannet. 
+•	Samtidig strømmet smeltemasser opp gjennom sprekker i berggrunnen, størknet og ble dermed magmatiske bergarter inne i fjellkjeden. 
+•	Dette er grunnen ti at store deler av bergrunnen på vestkysten består av metamorfe og magmatiske bergarter. 
+•	I kollisjonen ble også flak av harde bergarter skjøvet ut til sidene og videre innover kontinentene på begge seider. 
+•	Disse var flere kilometer tykke og ble skjøvet flere hundre km. Innover lan, mot sørøst. 
+•	Disse blir kalt skyvedekk, og vi finner dem fra Rogaland, og videre til Hardangervidda og Jotunheimen. En kan også finne dem i Rondane, nord for Mjøsa og i Finnmark. 
+•	Skyvedekkene foldet de kambrosiluriske bergartene foran seg som en duk på et bord, da de bevegde seg østover.  De eneste som unngikk dette, var de kambrosiluriske bergartene helt øst i landet. 
+Oslofeltet
+•	Ble slutten av oldtiden (ca. 250 mill år siden). 
+•	Det oppstod ved at et område mellom Langesund og hamar sank  inn mellom nord-sør gående sprekker i jordskorpen. Riftdal. 
+•	Jordskorpen var i ferd med å sprekke opp, o når område sank ned i den oppstod det en riftdal, altså oslofeltet. 
+•	Innsynkningen førte vulkansk aktivitet. 
+•	Smelte fra jordas indre størknet, både dypt nede i jordskorpen, i tilførselsganger opptil vulkaner og på jordoverflaten. 
+•	Dette førte til at det er mange magmatiske bergarter i oslofeltet. 
+•	Mange er sjeldne og flere har fått navn etter der de ble funnet i Norge. (Normarkitt og larvikitt. 
+Kontinentalsokkelen
+•	Ble dannet etter den kaledonske fjellkjeden. 
+•	De ytre kreftene slet ned landoverflaten, og for ca. 100mill år siden, på slutten av mellomtiden var den borte 
+•	Løsmassene ble avsatt på det som i dag blir kalt den nrosek kontinentalsokkelen, og herdet til sedimentære bergarter. 
+•	Derfor er leirsjefer, kalkstein og og sandstein vanlige her. 
+•	Der finnes også tykke lag av kull fra karbonperioden, men bergartene fra mellomtiden som er mest interessante. 
+•	Dette er fordi det er der vi finner olje og gass. 
+Istider og isbreer
+•	Istidene kommer og går innenfor forskjellige perioder. Eks. Det har vært 6 istidsperioder de siste 800 mill årene.  En kan finne spor av en isbre som eksisterte for 600 mil år siden i Finnmark. 
+•	Den siste istidsperioden begynte for 2-3 mill år siden, og er mest sannsynlig ikke slutt enda. 
+•	Det er flere istider i hver periode, adeskilt av mellomistider. 
+•	I denne istidsperioden har det til nå vært ca. 40 istider. 
+•	I istidene eroderer isbreene landoverflaten. 
+•	Landet er ofte helt isfritt i mellomistidene. 
+•	Den siste istiden begynte for 1000.000 år siden, og sluttet for 10.000 år siden. 
+•	Årsaker: Området som skal bli dekket av is, må ligge i nærheten av en av polene. 
+•	Det at tidligere istider har vært i land som ikke gjør dette, kan forklares av platedriften. 200 mill år siden: Pangea: Afrika, Australia, Sør-America, India og Antarktis lå saman i næheten av sørpolen 
+•	Deler av disse kontinentene var da dekket av en innlandsis. 
+•	Platedriften kan ikke forklare vekslingen mellom istider og mellomistider i samme istidsperiode, pga. vekslingene er for rasske. 
+•	I dag tror vi at d skyldes astronomiske årsaker som er viktigst. Disse kan være jordbanens form, jordaksens helning og når på året jorden er nærmest sola 
+•	Grunnen til dette er at de fører med seg små endringer i solinnstrålingen til jorden, som igjen kan føre til klimaendriner og istider. 
+Isbreer
+•	Blir dannnet når det over lengre tid kommer mer snø enn det smelter om sommeren. 
+•	Det er derfor viktig med kalde vintere og kjølige sommere for at breene skal vokse. 
+•	1/10 er i dag dekket med isbreer. 
+•	Det meste av vintersnøen blir ofte liggende på den øverste delen av bredoverflaten. 
+•	Dette blir etter hvert til is, og blir kalt breens næringsområde. 
+•	Hver sommer, smelter all av snøen og noe av isen på den nederste delen av breen (avsmeltningsområde). 
+•	Isbreene i dag er ikke rester fra tidligere istider. Det var mye varmere enn i dag, i tiden etter den siste istiden og all is i Norge smeltet. 
+•	Landet var helt isfritt for 8000 år siden. 
+•	Dagens breer vokste frem for 3000-4000 år siden, i bronsealdere da klimaet igjen ble kaldere. 
+•	Isbreene blir påvirket av klimaendringer. Varmt klima = mindre ny is, og breene vil dermed minke etter noen år. Breene kan lege på seg dersom klimaet blir kaldere igjen. Brefrontene rykker dermed frem. 
+•	Ikke bare klimaendringer, men også hvor mye snø som faller på breen er avgjørende for om den rykker frem eller går tilbake. En bre kan rykke frem uten at klimaet har blitt kaldere, dersom det kommer mye snø. 
+Bretyper
+•	Blir skilt fra hverandre ved å se på formen og størrelsen. 
+•	Bottenbreen: er den minste, ligger i en forsenkning i fjellet (botten). Ligger ofte i le eller skyggesiden av fjellet. Snøen samler seg lett, og ola har vanskelig for å komme til. 
+•	Dalbreene: større, fyller hele dalbunnen. Disse er ofte utløpere fra en platåbre. 
+•	Platåbre: dekker hele fjellområder. De norske kan være flere hundre meter tykke.  Ofte vilt landskap under denne bretypen (og under innlandsis) med høye fjell og dype daler. Likevel har breene en jevn overflate. 
+•	Innlandsisen: største av breformene, dekker et helt kontinent. Eks. Grønland og Antarktis. Antarktis: Isen er ca. 4700 m tykk. Grønnland: 3300 m på det tykkeste. 
+•	Kalving: Store og små isfjell løsner fra isbreen når den møter havet. 
+Breerosjon
+•	Breen blir satt i bevegelse pga. tyngden. 
+•	Når isen er under trykk, er den plastisk, og kan derfor strømme langsomt nedover en heldning. Det er altså tyngden som får dette til å skje. Indre bevegelse, og kal gli på underlaget. 
+•	At den kan gli på underlaget er en betingelse for at den kan erodere. 
+•	Breen erroderer sterkere, jo raskere den beveger seg. 
+•	Vanlig hastighet er 10-20 cm. I døgnet for en isbre. Kan variere mye, til og med på en og samme bre. 
+•	Tempen under breen. Breen svinger på rundt frysepunktet. 
+•	Vannet som trenger ned i sprekker i fjellet, fryser og sprenger løs små og store steinbiter. (Frostforvitring). 
+•	Steinene frosser fast på undersiden av breen, og føres videre med breen. (Plukking). 
+•	Plukking en fører til at breen får en slags såle, bestående av sand og stei, som fungerer som et gigantisk sandpapir når breen beveger seg. 
+•	Steinene på undersiden riper striper i fjelloverflaten. 
+•	Eroderer med andre ord underlaget ved plukking og sliping. 
+•	Normalt i Norge: 1 mm erosjon i fast fjell per år. 
+•	Fører dermed med seg løsmasser, som blir kalt morener. 
+•	Disse består av løsmasser som er usorterte, så en kan finne alt fra leiklomper til store steinblokker. 
+•	Morenen under breen = bunnmorene. 
+•	Disse blir liggende igjen som et teppe over berggrunnen, dersom breen smelter. 
+•	Dersom breen på nytt vokser seg stor, skyver den bunnmorenen foran seg. 
+•	Der breen stopper, blir det liggende igjen en vold av morener: endemorene. . 
+Bresprekker og brefall
+•	Sprekker oppstår ofte der breene blir brattere
+•	Her øker ishastigheten, og isen sprkker opp. 
+•	Dette kalles brefall, og kan minne om en frosset foss. 
+•	De bratteste brefallene beveger se med en hastighet på opptil to meter per døgn. 
+•	Sprekkene er sjelden dypere enn 30-40 m, og når aldri ned til bunnen av isbreen. 
+•	Ettersom at isen er plastisk, Sprekkene  lukker seg jo lener ned en kommer. 
+•	Disse sprekkene kan være skjult av et tynt lag med snø, og det er deffor farlig å gå på isbreer:  snøbroer. 
+•	Brefront: breer som vokser har ofte bratte brefronter. 
+•	Disse kan føre til at det raser ned svært store isblokker fra breen. 
+•	Breelv: kommer  fram under brefronten, og skiller seg fra andre elver, ved at vannet er smelte fra isbreen. 
+•	Under breen kan det samle seg opp store mengder vann. Når demningen brister, kan det komme mye van på en gan. Kan føre til uventede flommer. 
+Landformer dannet av isbreer
+•	Store deler av landformene vi ha r i Norge i dag er resultater av breerosjon i istidene. 
+•	Alpint landskap: Dannet av bottenbreer. 
+•	Båttenbreene graver seg inn i fjelllmassiv og fra flere sider samtidig, helt til det til slutt bare blir stående igjen isolerte tinder og smale egger. Alpene.
+•	I Norge er det alpint landskap i Rondane, på Svalbard, Jotunheimen, Sundmøre, Nordland, Troms. 
+•	Denne landskapstypen er eldre enn siste istid, ettersom det har gått for kort tid til at landskapet kan ha rukket å errodere så mye. 
+•	Likevel ahr det eksistert bottenbreer på begynnelsen og slutten av tidligere isteder, og i kalde perioder i mellomistider. Mye av det alpine landskapet er derfor dannet i disse periodene. 
+•	Dette vil si at landformen har overlevd en eller flere istider. 
+•	Disse har ikke blitt errodert av innlandsisen, og vvet derfor at disse må ha stått opp over isen. 
+•	Det er vanskelig å si hvordan de klarte seg gjennom istidene i i8nlandet, der hele områder var dekket av is. En muulighet er at isen var frossset fast i bakken, og at det bare var indre bevegelser i innlandsisen. 
+•	Daler og fjorer: daler også errodert av elver, men isbreer har vært det mest sentrale. 
+•	Daler: der ishastighet og istykkelsen var størst. Var tykkere, og erroderte derfor saktere på fjelene rundt. 
+•	Dalene ble dermed dypere og dypere for hver istid. 
+•	Da isen dekket hele landet, dekket isen hele dalen. 
+•	Den eroderte derfor både dalbunnen, og dalsidene
+•	Kuttet svingene i elvedalene dannet før istidene, og gjorde dalene retteere. 
+•	Dette resultterte i u-daler. Dissse har bratte sider og flat dalbunn. 
+•	Hengende daler: Sidedaler munner ut i sidene av hoveddalen, disse og hoveddalen møter hverandre i forskjellig høyde, ettersom at breerosjonen var størst i hoveddalen. Ble mindre dype pga. mindre errosjon. 
+•	Fjordsjøer>: Lange og smale innsjøer, som en ofte finner i de dypeste dalene. 
+•	De grunneste av dissse er for lenge siden fyllt opp v løsmasser, men mange er fortsatt  svært dype.Eksempel: dn dypeste delen av Mjøse, som ligger 200 m dyp. 
+•	Fjorder: Mest dramatiske og en av de viktigeste turistmagnetene i   landet. 
+•	Ble dannet etter siste istid av at vannet trengte inn i de nederste delene av dalene. 
+•	De er derfor druknede U-daler. 
+•	De fleste fjorder er dypere en  havet utenfor, eksempelvis er Sognefjorden mer enn 1000 m dyp 
+•	Terskelen ved utløpet av fjorden er bare 150 m. Dette er fordi breene erroderte mindre, da isstrømmene kom ut av de trange dalene. 
+Vær og klima
+Vær: det vi opplever her og nå. Klima: gjennomsnittstemp for en årstid, middelverdier. 
+Temperatur: 
+•	Tropene:  Åmrådene som ligger nær ekvator. Solen står høyt på himmelen, og det er høye temperaturer hele året. Små forskjeller på årstidene. 
+Høye breddegrader: lavere lufttemp, og større forskjeller mellom årstiddne. Solen står lavere på himmelen, og høyden avhengier av årstidene. 
+•	Nord og sør for polarsirkelen er det mørketiden del av året. Solen kommer altså ikke over horisonten i det hele tatt. 
+•	I tillegg er det her vi finner de laveste tempperaturene og de største forskjellene mellom årstidene. 
+•	I tillegg til solstrålingen, har luft- og vannstrøminger stor betydning for klimaet. 
+•	Varm luft og varmt vann føres fra steder som ligger på lave breddegrader, til steder med høye breddegrader. Motsatt med det kalde. 
+Nedbør
+•	 Kommer fra skyer som kommer fra troposfæren, altså den nederste  delen av atmosfæren. 
+•	Troposfæren befinner seg 8-16 km. Over bakken. 
+•	Det er størst avstand mellom ekvator og troposfæren,  og minst mellom  den og polområdene. 
+•	Vi skiller mellom ulike skytyper etter hvor høyt de ligger. 
+•	Skyer består av små vanndråper, ispartikler eller begge deler. 
+•	All luft inneholder vanndamp. 
+•	Varm luft kan holde på mer vanndampp enn kald. 
+•	Når varm, fuktig luft blir avskjølt, må den gi slipp på vmye av vanndampen. 
+•	Mye av denne kondenserer til små vanndråper, og slik danne s nedbør. 
+•	Dette skjer enten ved at soloppvarmet luft stiger, eller når luft blir presset opp av f.eks. fjell eller andre luftmasser. Dampen kondenserer deretter på små støv eller saltpartikler i lufta. 
+•	Nedbør oppstår ved at vanndråpene kolliderer og blir til større vanndråper, helt til de blir så store at de faller til jorden som regndråper. 
+•	Det er vanlig at vanndråper fryser til is, enten på høye breddegrader eller når de er langt over jordoverflaten. 
+•	Disse trekker til seg vanndamp, som fryser danner snøkrystalller. 
+•	Når de blir store nok, faller de til jordoverflaten. 
+•	Om nedbøren faller som snø eller regn, kommer an på tempen i de nederste luftlagene. 
+Typer nedbør
+•	Tre typer, ettersom  hvordan luften stiger  eller blir presset opp. 
+1.	Konvektiv nedbør: Dersom solen varmer opp bakken, varmer den opp luften over. Dette får luften til å stige, og blir avkjølt. Konveksjon: varmeledning. Kommer ofte som kraftige regnskyld, bygenedbør fra haugskyer. 
+2.	Orografisk nedbør: : dannes når vind blåser inn over høyt land eller fjellkjeder, og luften blir presset til vers. Oros: fjell på gresk. Kommer fra lave lagskyer å losiden, altså vindsiden av fjellet. Kan føre til store nedbørsmengder. Luften synker igjen på lesiden, dermed stiger og så temperaturen. Slutter da å regne, ettersom at lufta da kan holde på mer vanndamp. Lesiden blir i tillegg liggende i regnskyggen, og det faller derfor mye nedbør. 
+3.	Frontnedbør: når varm møter kald luft. Varmluften er lettest, og blir derfor  presset til vers over den kalde lufta. Begynner å regne ved at den varme, øverste, luften blir kaldere, dermed kondenserer vanndampen. 
+Vind
+•	Høy og lavtrykk: lufttrykket på jordoverflaten. Lavtrykk: lavt lufttrykk. Motsatt med høytrykk. Et mål for lufttyngden ved et punkt på  jordoverflaten. Det samme prinsippet som vanntrykk = tyngden av vannet over deg. 
+•	Lavtrykk: lufta stiger til vers, o det oppstår et underskudd av luft. Ny luft kommer da til for å fylle underskuddet. Blåser  mot lavtrykket. 
+•	Høytrykk: luft synker ned mot landoverflaten, og det oppstår et overskudd av luft. Vinden blåser derfor vekk fra høytrykket.  Vinden blåser alltid far høytrykk til lavtrykk.Høyere trykkk, jo sterkere vind. 
+•	Vinden vil bli avbøyd mot høyre på den nordlige halvkule, ettersom jorda roterer. 
+•	Dette førrer til at vinden alltid blåser mot klokka rundt et lavtrykk, og med klokka rundt et høytrykk. 
+•	Motsatt på den sørlige halvkule. Her blir alltid vindene avbøyd mot venstre. 
+•	Vindens bøyning pga. jordas rotasjon: korljoriseffekten. 
+•	Lav- og høytrykk kan påvirke globalt, lokalt og regionalt. 
+•	De styrer også luftsirkulasjonene i atmosfæren. 
+•	Disse er alltid der, imens lokale og regionale varierer med tid på døgnet eller årstidene. 
+Globale sirkulasjner
+•	Tropene mottar i løpet av et år mer solstråling enn de polare områdene, noe som fører til store temperaturforskjeller. 
+•	Disse setter luft og vann i bevegelsene. 
+•	Dette er altså de globale luft- og havstrømmene, som fører varm luft og varnn fra tropene til de polare områdene. 
+•	Sllik bli varmen som er igjen til overs, transportert til steder på høyere breddegrader. 
+Luftstrømmene. 
+•	Varmen fra solen får luften over jordoverflaten til å bli varm, og stige oppover. Dermed blir det dannet en lavtrykkssone langs ekvator. 
+•	Denne luften stiger ettehvert ca. 16 km over jordoverflaten, og blir avkjølt. 
+•	Noe av luften blåser nordover, og noe av den sørover. 
+•	Sirkulasjonsmønsteret som oppstår er nesten likt for den nordlige og sørlige halvkule. 
+•	Nordover: 30 breddegrader: lufta er så avkjølt at noe av den synker ned og danner høytrykk. 
+•	Noe av overskuddsluften fra høytrykket vil blåse inn mot lavtrykket ved ekvator. 
+•	Vinden blir som tidligere nevnt, bøyd av til høyre. 
+•	Resultatet av dette blir nord-østpassaten på den nordlige halvkule. 
+•	Passatvinder: stabile vinder. Haddde tidligere betydning for store seilskip som krysset havet. 
+•	Noe av den varme overskuddslufta fra høytrykksonen som ligger på  30 breddegrader, blåser nordover til en lavtrykkssone på 50-60 breddegrader nord. 
+•	Langs det vi kaller polarfronten,  møter den varme luften fra sør, kald luft fra nord. 
+•	Den varme lufta blir også her presset opp over den kalde. 
+•	De som blåser mot blir avbøyd til høyre og danner vestavindsbelte. 
+•	På den nordlige siden av polarfronten, strømmer avkjølt tropeluft videre mot nord i de øvre luftlagene 
+•	Disse luftmassene synker ned igjen og danner stabile høytrykk i nærheten av nordpolen. 
+•	Fra polområdet strømmer den kalde lufta sørover mot polarfronten. Der lufta igjen blir avbøyd mot høyre. Resultat: de nordøstlige polarvindene. Å
+•	Vindene presses til vers rundt kontinentene, ettersom at de står i veien for luft og havstrømmer. 
+•	På grunn av dette må også havstrømmene bøye av. 
+•	Fordelingen av land og hav påvirker også trykkforholdene på jorda. 
+Havstrømmer
+•	Den globale sirkulasjonen i verdenshavene består av både overflatestrømmer og dyphavsstrømmer. 
+•	Overflatestrømmene: Drives av vind. Disse har derfor stor sammenheng med de globale luftstømmene. Består kun av de øverste 2-300 meterene av havet, og påvirker klimaet langs kontinentkystene. Eksempelvis har golfstrømmen mye å si for det milde klimaet langs vestkysten av norge. 
+•	På de mest nordlige og sørlige stedene i havet, synker kaldt overflatevann til bunns. 
+•	Den største grunnen til dette, er at vannet blir tyngere, altså større tetthet, når det blir avkjølt. Slik oppstår dyphavsstrømmene. 
+•	Dyphavsstrømmene og overflatestrømmene danner et transportbånd, forvannet i verdenshavene. 
+•	Det kalde vannet strømme fra de høye breddegradene de lavere breddegrader med dyphavsstrømmene. Her stiger det kalde vannet opp til overflatestrømmene, blir varmet opp, for deretter å bli ført tilbake til høyere breddegrader sammen med disse. 
+•	Regionale og lokale luftsirkulasjoner
+•	Jordoverflaten blir raskere varmet opp av solstrålingen. Om sommeren blir derfor landområder varmere enn havområder 
+•	Motsatt på vinteren: Varmestråling fra jorda fører da til at havområdene blir varmere enn landområdene. 
+•	Det er derfor høy- og lavtrykk flytter på seg etter årstidene. 
+•	Monsunvind: Soloppvarmingen av landområdene om sommeren fører til at det dannes et kraftig lavtrykk over de sentrale delene av Asia. 
+•	Derfor blåser vindene fra havområder i sør og øst innover kontinentet. 
+•	Dette er en pålandsvind. 
+•	På grunn av høye fjellområder, blir den fuktige havluften presset oppover, når den møter kysten. Da oppstår også orrografisk nedbør. 
+•	Nedbørsmengdene blir store i landene sør og øst for Himalayafjellene. 
+•	Motsatt om vinteren, ettersom at varmestrålingen fra bakken da er sterk. 
+•	Lufta over kontinentet avkjøles og synker ned til landområdene. Danner høytrykk. 
+•	Vintermonsun: Etter dette blåser vinden ut fra kontinentet, og videre til steder med lavere lufttrykk, altså mot havområdene i sør. Dette er en fralandsvind som gir tørt klima på kysten. 
+•	Solgangsvind: En monsunsirkulasjon. I liten skala. Disse er vanlige på kysten om sommeren. Da er det tiden på døgnet som tiden på døgnet som avgjør høytrykk og lavtrykk. 
+•	Hvordan den oppstår: Solen varmer opp landområdene pådagen, som igjen varmer opp luftlaget, og gjør at lufta stiger. Da dannes et lokalt lavtrykk. 
+•	Derretter blåser vinden ut mot havet igjen og blir avkjølt. Blir derfor tyngere, for så å synke nedover og bli til et lokalt lavtrykk over sjøen. Herfra blåser det en solgangsvind&pålandsvind mot land. 
+•	Som en følge av at vanndamp kondenserer, dannes det store haugskyer over land. 
+•	Senere på kvelden kan det derfor komme konjektiv nedbør. Mye regn, ogteogså lyn og torden. 
+•	Vinden snur om natta. Dermed blir bakken og lufta avkjølt. 
+•	Det dannes derfor et lokalt høytryykk over land. Danner deretter lavtrykk over sjøen.  Blåser derfor en fralandsvind om natten. 
+•	Klimasoner
+•	* Delt inn etter forkjellene i temperatur og nedbør. 
+•	Tropisk regnklima: Sonen rundt ekvator, store mengder konvektivt nedbør Høy temp. Ingen måneder har lavere snittemp en 18 grader. Det varme og vuktige klimaet gir grunnlag for en artsrik regnskog. Høytrykksomen på ca. 30 breddegrader, som strekker seg jorda rundt, gir et tørt klima, med lite nedbør. Oftest skyfri himmel i disse områdene. De fleste ørknene ligger i denne klimasonen. Ligger oftest på vestsiden av kontinentene der passatvindene er tørre fralandsvinder. På den andre siden av kontinentene blir vinden en pålandsvind, som transporterer fuktig havluft inn mot land og fir nedbør. 
+•	Tørt klima: Den delen av klimasonen som ligger nrmest ekvator har ofte en regntid om sommeren. Dette er fordi lavtrykkesonen over ekvator flytter seg litt mot den delen av halvdelen av jorden som har sommer. Finner her stepppe og savanne. Steppen: lite regn, gress og busker. Savannen: regntiden på sommeren varer noe lenger. Vanligste vegitasjon: høytvoksende gress. Finnes også enkelte trær og spredte treklynger. 
+•	Temperert klima: Middeels varmt. Vestavindsbelte. Vinden tar med seg fuktig luft  fuktig luft innover kontinentenes vestkyster. Noe som fører til skydannelse og mye nedbør. De store nedbørsmengdene langs kysten skyldes at frontnedbøren langs polarfronten blir orografisk forsterket. Dette betyr at frontnedbøren forsterkes når fuktig havluft blir presset oppover fjell eller høyt land langs kysten. Eks. nedbøren langs norskekysten. Det tempererte klimaet har stor forskjell på temperaturene om sommeren og vinteren .  Det fører til tydelige årstider. Bra klima for skogen, ettersom det ikke er for tørt eller kaldt. Naturlig vegitasjon: løvskog, mer vanlig med barskog, jo kaldere vintre. Derfor er det store sammenhengende område med barskog på høyere breddegrader. Her er det kaldt nok om vinteren til at snøen blir liggende. Polarfronten markerer skillet mellom polarluft og tropeluft. Den varme luften lir presset opp når den møter den kalde, derfor er den vanligste formen for nedbør her frontnedbør. 
+•	Polart klima: Kald og tørr luft, nord for polarfronten. Barskogen og bjørkeskogen forsvinner jo lengrre nord en kommer. Tundraen: det øverste jordlaget er det eneste som tiner om sommeren. Ingen måned med en gjennomsnittstemp over ti grader. 
+A close reading of William Shakespeare’s Sonnet 94 – They That Have Power To Hurt, And Will Do None
+In the first quatrain of William Shakespeare’s Sonnet 94, They That Have Power To Hurt, And Will Do None, we are introduced to the narrator and the people to whom the poem is addressed. The narrator is invisible, without name, appearance or any other description of an identity. The people who are being addressed are not given an identity either, but are only referred to as a group, this makes the reader understand that the point of the poem is not to learn of individuals, but rather understand a group of people.  They are introduced as people who have “power to hurt, and will do none” and that they are “to temptation slow”. This indicates that they have power to hurt others, but choose not to, even though they are tempted to do so. They are also described as not doing the thing they “most do show”, meaning that they are not who they seem to be. The narrator also informs us that they are “themselves as stone” which is a metaphor for them being cold and hard. The poem opens with a Caesura. The division in the first line indicates an emphasis on what is important, which is that they “will do none” There is also a Caesura in the third line, which functions to highlight the contrast between “moving others” and  being “as stone”. The rhyme scheme is ABAB, meaning that every other line rhymes. These lines also have a lot of alliteration in that there are a lot of consonants like T and Ps.
+The next four lines are dedicated to praising the people, describing them as having inherited “heavens graces” meaning that they have virtue and that they serve God. They are also “the lords and owners of their faces”, Them being “lords is a metaphor for them not only having power over themselves, but, also power over what they show of themselves to others.  The narrator states that other people are no more than “stewards of their excellence”. Which both is a simily for other people’s admiration, and support of, these people. The lines follow the same rhyme scheme as the four previous ones. 
+In the last six lines, both the tone and the language shifts drastically. The metaphors are replaced with personification. The rhyme scheme is the same in the first three lines, however, it changes for the three last ones. The narrator now talks of a summer flower, that is sweet and beautiful in the summer but that its beauty is temporary, and that it sooner or later, will die. This is a personification of the people, and of time itself. It implies that the people are rather young., but that their youth, and their former ideals of restraint from temptation, are “dying” like a summer flower. The poem continues with stating that if the flower “with base infection meets, even the basest weed outbraves his dignity”. This continues the personification from the last few lines. If the people get “infected” with bad values or circumstances, even the most terrible of people, have more dignity than people with power, who have fallen from Gods graces.  The two last lines, which are a couplet, marks both the ending and a turning point in the poem. The first one, “Sweetest things turn sourer by their deeds” is an allegory for the fact that seeming virtuous on the outside, does not count if your actions are unethical. The last line is a personification of evil in different forms. The lilies that fester represents the people and their fading facades, while the weeds represent someone that already have a bad reputation, like a criminal. The narrator states that the people, who are trusted by the society to be good, but are definitely not, are far worse, than someone without a nice façade.  The last line does, like the first one, contain a caesura. While it in the first line functioned as a division between a description and what was most important, it here signifies a turning point. While the poem until now had been about people with power trying to be someone they are not. This last line underscores how false and dangerous these people are. They also imply that this may have grave consequences. 
+
+Chapter 6, 1900-1920
+•	More awareness about worker’s conditions in factories, mostly in cities. 
+•	Particularly after the 1911 fire in NY. 
+•	Christians started to preach on helping others. “What would Jesus do?”
+•	Prohibiting alcohol. 
+•	Better cities: lesss child labour and pollutions. 
+•	Women’s sufferidge, racial justice. 
+•	The Birth of A Nation: movie that glorified the raise of the KKK. 
+•	World War 1: The US wanted to stay nerutral, but proved to be difficult.  Many Americans had connections with the countries participating in the war. 
+Chapter 7
+•	1920: on the margins ofglobal affairs
+•	The New deal: American sociaty transformed. 
+•	1620s: New technology, ideology, urbanisation: most americans lived in cities. 
+•	KKK: got more power, advertise. They lost it, but many of their ideas stayed. 
+•	People got better economy. Farmers, immigrants and Native Americans struggled. 
+•	1930s: very high unemployment rate. Franklyn D Roseweldt was elected president. Make people feel hope, restored confidence in the people. 
+•	The New deal: built and created new things, geve people jobs. 
+•	Worold War 22: 
+•	US stayed neutral, but helped England financially and by protecting their ships. 
+English literature in the 20th and 21st century
+•	Modernism: first 30 years of the 20th. 
+•	Post modernism:WW2, was a saviour from the nazis, but declined after the war. 
+•	USA and Russia took over Britains power. 
+•	The cold war: Britain allied with the US. 
+•	Human, and particularly womens rights. 
+•	Women liberation movement grew, Simone Deevouair. 
+•	Reised the question of what it meant to be British. Englishness, the British empire. Were people in these countries seen as British?
+•	Immigration, racism. What modernism? A critique of modernism. 
+•	Modernism: gives you the answer to the meaning of life, logic and seriousness. 
+•	The second wave of feminism: the feminism we know today, non-ezistance of gender differences, sezual revolusion, rejection of the Victorian values of disancy. Gay rights. 
+•	PM challenges the notion that everything has meaning, a lot of the things we sees meaningful are constructed by humans. 
+The Friar and The Wife Of Bath – Satire In The Canterbury Tales
+Geoffrey Chaucer was, by many, viewed as the father of English literature. He was also famous for being a satirist. One of his greatest works is “the Canterbury Tales”, which is a story about 29 people from different social groups that for different reasons are going on a pilgrimage to. the English town Canterbury. This essay will examine the satire that is practiced upon two of these pilgrims and discuss the aim of this satire. 
+One of the most satirized characters in this text is the friar. Chaucer starts by describing the friar as a ”pleasure loving and merry” man. At first, he portrays the Friar as a good man, that is both well-spoken and  sociable. Chaucer than goes on to tell the reader of his many marriages. “He has made many a marriage / of young women at his own cost”. Being married as a friar was considered as braking the vow of celibate, that members of an order of friars were obliged to take. The friar is popular among landowners and fine women in his area. This is due to how easily he gives penance, at least to those who can pay well. He is thus considered as an easy way for the rich to avoid ending up in hell. The friar is reluctant to acquaint himself with sick people or beggars. According to him, this would not be proper because of his high position.  Due to one of the most important duties for a friar, being helping people who are sick or living in poverty, this would be seen as a rather weird statement for a friar to make. Chaucer also reveals that the Friar makes a lot of money, 2his total profit was much more than his proper income”. This being another violation of the duties of the friars, who are not allowed to either beg or make more money than he strictly needed. The whole point of being a friar was, after all, to live as the common people.   Chaucer also alludes to the friar being corrupted, “And he gave a certain fee for his grant / None of his brethren came near his territory”. Chaucer’s depiction of the friar is a sharp criticism to how men in his rank were seen by society in 14th century Europe, as being pure and morally superior.  The aim of Chaucer’s satire of the friar was to comment on the doble standard of the religious elite that his society was dominated by. He also wanted to provoke, and hence forcing people to reflect on what affects this was having on society.
+The Wife of Bath is also written as a satire, but in a very different way. The first thing we learn about her, is that she is a skilled cloth maker, which implies that she is financially independent, which was very rare in the fourteenth century. We next learn of her fondness for men. She has been married 5 times, “not counting other company in youth”. This tells the reader not only of her many male companions, but also that she is not afraid to boast about them. Back in the 14th century, women were supposed to be faithful to only one man her whole life. The woman was also looked upon as the property of the man. So, for Chaucer to describe a woman as open about her love life as the Wife of  Bath, was highly controversial, and could be seen as both a way to provoke and make people question the gender roles in society. Chaucer also tells the reader about the many pilgrim edges the Wife of Bath has been on. Not for religious reasons, but rather out of a wish to see as most of the world as she can. Having travelled a lot was highly unusual, particularly for women, who were expected to stay at home to take care of domestic chores and children. He also put a great effort into describing her cloths and appearance in general. “Her stockings were of fine scarlet red / very closely laced and shoes very supple and new”. He also describes her bold face, and how her overskirt falls over her wide hips. This description could be read, by a 14th century standard, as sexual. 
+Chaucer had several aims when it came to the satire on The Wife of Bath. This character is by no means written as a traditional, medieval women. She is flamboyant in both dress and manner and is not afraid to speak of the things that set her apart from the picture one had of a good, Christian women. However, by the information we gain from the General Prologue, nobody seems to mind this very much. In other words, the aim of the satire of the Wife of Bath is not shedding a light on the circumstances most women endured during his lifetime, but rather creating a character who would provoke the public while at the same time showing them that there existed other types of women than the traditional one. Another aim of the satire on the Wife of Bath, was simply to provoke. The Wife of bath violated many of the established norms for medieval women, both in her loud and open personality or in her flamboyant way of dressing. She had her own career, opinions and sexuality, in a time when women were treated as property, and were not afraid to be herself. She also broke many of the Christian norms for women in society, which had the potential to make other women believe that there existed another life for them. 
+The Friar is a satire on the doble standard that existed among religious leaders in medieval Europe. He avoided the sick, instead of helping them. Stayed around rich people, instead of the poor, in order to make more money and paying people to stay out of his way. The Wife of Bath on the other hand, is a satire on gender roles. She is financially independent in a time when most women depended on their male relatives, dressed flamboyantly when women were supposed to be modest and had her own sexuality even though women were only supposed to please the man. Nevertheless, both of them are examples of characters that had the potential to both provoke and make people question the corrupt and often unjust society they lived in.  
+Willy and Biff In Death of A Salesman 
+The play “Death of a Salesman” by Arthur Miller is about a family who struggles in their relationships to each other. However, there is one relationship that is even more dysfunctional than that between the rest of the family, which is that that between the father, Willy, and his son, Biff.  This essay will examine why the relationship between these two characters is so bad. It will focus on how failed expectations, Willy’s flawed perception of reality and the character’s different interpretations of the American dream has shaped their relationship
+The most important reasons why Willy and Biff have such a bad relationship is the failed expectations both of them have for each other. Willy, on one hand, expects his son to become a business man, like himself. Bif,f, on the other hand, expects Willy to be a strong and devoted family man. Willy’s expectations for his son failes when Biff moves back home after having worked several jobs, while the picture Biff has in his head of his father shatters in his last year of high school, when he discovers his father has had an affair with another women.  According to Allan Chawkin, the conflict between Willy and Biff is a result of them being in a downward spiral of not being able to eccept each other, despite the flaws the other may have. (28).  One example of tis is how, when Biff decides to take up a loan in order to start a business. Willy finally accepts his son, however, one can argue that this is not real. Willy does only accept Biff when he what he wants him to. In other words, Biff cannot gain acceptance by being who he really is
+A second important reason for their bad relationship is Willy’s perception of reality. Willy has always seen himself as a successful businesss man who provides for his family by working hard. One of his most important values are financial success, wich is a value that he is also trying to impose on his sons. However, sales is not going well for Willy, and he gets more desperate as rent starts to increase. Instead of admitting this to himself and his family, Willy’s expectations for both himself and his sons gets even greater. One of the main reasons why Willy does not manage to see things as they really are, is the people around him. None of his family members nor his friends have the courage to be honest with him. A good example of this is his wife, Linda. Linda is, according to Chavkin, an enabler who lets, and even encourages Willy to keep on living in his perception of reality (31). Even though her intentions are good, Linda’s pretence that her husband is something that he is not, only trives him further into his unhealthy way of dealing with his life.  Nevertheless, it is apparent that somewhere inside him, reality is starting to hit. He therefor pushes some of the expectations he has for himself over on his son Biff, whom he believes have good opportunities in the business world that he is wasting away by doing nothing. In other words, Willy lives through his son, and when his son fails to live the life Willy wants him to live, he feels disappointed in his son, but also in himself. The conflict between Willy and Biff is therefor a result of Willy’s reluctance to accept reality as it is. 
+A third reason for their bad relationship is the unattainability of the American dream and expectations from society. Billy is a firm believer in the American dream. But how exactly can one define this dream. According to Galia Benziman, the American dream started out as being about fulfilling ones dreams and living a good life. However, as the US entered the post-war era, the content of the dream changed from being about the pursuit for happiness into being about materialistic wealth. Thus, the dream became about gaining financial success. (20) Willy is obsessed with this version of the American dream, so much in fact that he do not manage to process the fact that he has failed in attaining it. Because of this, Willy starts feeling depressed and out of place, both in the business world and in his own family. He is so influenced by the expectations from society and his own notion of what it means to be successful, that he fails to see the version of the dream that he believes in as what it is, which is, at least for most people, unattainable. The fact is, not everyone can become rich, which means that no matter how hard one works, one is not guaranteed financial success, which makes this version of the American dream a lie. Willy does not think that way and handles his difficulties by feeling contempt for both himself and his son. Due to these societal beliefs, Willy is not able to love his son unconditionally. It is therefor easy to assume that the play speaks against the American dream, however Benziman argues that it is, in fact, proposing to re-establish the old version of it. (21) An example of this is Biff. Biff’s greatest wish is to live more in contact with nature, not to own a business or do sales like his father. Biff’s character may therefore be interpreted as the original American dream, while Willy’s character may be interpreted as the new, more materialistic version. The conflict between the two characters is thus about values in society and raises the question of what kind of society that is worth living in, one where people live according to their own believes and wishes or one where everyone are competing to gain the most material success. Towards the end of the play, Willy takes his own life, and in one of the last scenes  Miller states that Willy “had the wrong dreams” (111). This shows the reader that neither the way Willy lived his life, nor the version of the American dream he represented were sustainable in the long run, neither for himself nor for his family or society as a whole. 
+All in all, the conflict between Willy and Biff is complex, and has many different layers to it.  Both father and son had great expectations for one another. Expectations that the other found hard to furfill. Secondly, Willy has a perception of himself and the world that does not correspond with reality. He also tries to give his world view to his sons, which does not go well with Biff. Lastly, Willy and Beef’s ways of interpreting the American dream are very different. While Willy is influenced by the current expectations of financial success, Biff wants to live more in contact with nature and realise his own dreams, which are not influenced by society to the same degree. All in all, the relationship between Willy and Biff is bad because of the gap between the world inside the character’s heads and reality when it comes to how they see themselves and each other. 
+
+Sources: 
+Benziman, Galia. “Success, Law, and the Law of Success: Reevaluating ... - JSTOR.” Jstor.org, Te Laviv University, 2005, https://www.jstor.org/stable/20064631. 
+Chavkin, Allan, and Nancy Chavkin. "Looking at Arthur Miller's Death of a Salesman ... - JSTOR." Jstor. The Arthur Miller Jurnal, 2015. Web. 28 Feb. 2022.
+Miller, Arthur, Claire Conceison, and Susan Abbotson. Death of a Salesman. 1st ed. Methuen Drama, 2022. Print.
+
+Modernism
+•	Modernism
+•	1901: end of the Victorian time, which lasted from 1941.
+•	Good mannars, sexual desancy,rreligion
+World War One, influenced literature both in Europe and in the rest of the world. 
+•	Consequences: price increases, los of patrioatism, employment of women. Important for literature
+•	Economic depression: American values took over. 
+•	Existencialism. What is life about, what is my role, what is the point of war, why does bad things happen if there exists a God? 
+•	Women: patriarchy, women were not given the opportunity to get a education or work. 
+•	Modernism: 1901-1925: reaction to the Victorian tme. Philosophy, art and literature. Questions of the standards of literature. 
+•	Exprementation in style. 
+•	What devided it from other type of literature: formal experimentation, philosophy and psychology, no cronical order or logic when it comes to cause-and-affect. 
+•	Stream of consiousnes:  No cronical structure, but internal activities of a human being. 
+1185 words
+1
+Willy and Biff In Death of A Salesman 
+The play “Death of a Salesman” by Arthur Miller is about a family who struggles in their 
+relationships to each other. However, there is one relationship that is even more 
+dysfunctional than that between the rest of the family, which is that that between the father, 
+Willy, and his son, Biff. This essay will examine why the relationship between these two 
+characters is so bad. It will focus on how failed expectations, Willy’s flawed perception of 
+reality and the character’s different interpretations of the American dream has shaped their 
+relationship
+The most important reasons why Willy and Biff have such a bad relationship is the failed 
+expectations both of them have for each other. Willy, on one hand, expects his son to 
+become a business man, like himself. Bif,f, on the other hand, expects Willy to be a strong 
+and devoted family man. Willy’s expectations for his son failes when Biff moves back home 
+after having worked several jobs, while the picture Biff has in his head of his father shatters 
+in his last year of high school, when he discovers his father has had an affair with another 
+women. According to Allan Chawkin, the conflict between Willy and Biff is a result of them 
+being in a downward spiral of not being able to eccept each other, despite the flaws the 
+other may have. (28). One example of tis is how, when Biff decides to take up a loan in order 
+to start a business. Willy finally accepts his son, however, one can argue that this is not real. 
+Willy does only accept Biff when he what he wants him to. In other words, Biff cannot gain 
+acceptance by being who he really is
+A second important reason for their bad relationship is Willy’s perception of reality. Willy 
+has always seen himself as a successful businesss man who provides for his family by 
+working hard. One of his most important values are financial success, wich is a value that he 
+is also trying to impose on his sons. However, sales is not going well for Willy, and he gets 
+more desperate as rent starts to increase. Instead of admitting this to himself and his family, 
+Willy’s expectations for both himself and his sons gets even greater. One of the main 
+reasons why Willy does not manage to see things as they really are, is the people around 
+him. None of his family members nor his friends have the courage to be honest with him. A 
+good example of this is his wife, Linda. Linda is, according to Chavkin, an enabler who lets,
+and even encourages Willy to keep on living in his perception of reality (31). Even though her 
+intentions are good, Linda’s pretence that her husband is something that he is not, only 
+trives him further into his unhealthy way of dealing with his life. Nevertheless, it is apparent 
+that somewhere inside him, reality is starting to hit. He therefor pushes some of the 
+expectations he has for himself over on his son Biff, whom he believes have good 
+opportunities in the business world that he is wasting away by doing nothing. In other 
+words, Willy lives through his son, and when his son fails to live the life Willy wants him to 
+live, he feels disappointed in his son, but also in himself. The conflict between Willy and Biff 
+is therefor a result of Willy’s reluctance to accept reality as it is. 
+A third reason for their bad relationship is the unattainability of the American dream and 
+expectations from society. Billy is a firm believer in the American dream. But how exactly can 
+one define this dream. According to Galia Benziman, the American dream started out as 1185 words
+2
+being about fulfilling ones dreams and living a good life. However, as the US entered the 
+post-war era, the content of the dream changed from being about the pursuit for happiness 
+into being about materialistic wealth. Thus, the dream became about gaining financial 
+success. (20) Willy is obsessed with this version of the American dream, so much in fact that 
+he do not manage to process the fact that he has failed in attaining it. Because of this, Willy 
+starts feeling depressed and out of place, both in the business world and in his own family. 
+He is so influenced by the expectations from society and his own notion of what it means to 
+be successful, that he fails to see the version of the dream that he believes in as what it is, 
+which is, at least for most people, unattainable. The fact is, not everyone can become rich, 
+which means that no matter how hard one works, one is not guaranteed financial success, 
+which makes this version of the American dream a lie. Willy does not think that way and
+handles his difficulties by feeling contempt for both himself and his son. Due to these 
+societal beliefs, Willy is not able to love his son unconditionally. It is therefor easy to assume 
+that the play speaks against the American dream, however Benziman argues that it is, in 
+fact, proposing to re-establish the old version of it. (21) An example of this is Biff. Biff’s 
+greatest wish is to live more in contact with nature, not to own a business or do sales like his 
+father. Biff’s character may therefore be interpreted as the original American dream, while 
+Willy’s character may be interpreted as the new, more materialistic version. The conflict 
+between the two characters is thus about values in society and raises the question of what 
+kind of society that is worth living in, one where people live according to their own believes 
+and wishes or one where everyone are competing to gain the most material success. 
+Towards the end of the play, Willy takes his own life, and in one of the last scenes Miller 
+states that Willy “had the wrong dreams” (111). This shows the reader that neither the way 
+Willy lived his life, nor the version of the American dream he represented were sustainable
+in the long run, neither for himself nor for his family or society as a whole. 
+All in all, the conflict between Willy and Biff is complex, and has many different layers to it. 
+Both father and son had great expectations for one another. Expectations that the other 
+found hard to furfill. Secondly, Willy has a perception of himself and the world that does not 
+correspond with reality. He also tries to give his world view to his sons, which does not go 
+well with Biff. Lastly, Willy and Beef’s ways of interpreting the American dream are very 
+different. While Willy is influenced by the current expectations of financial success, Biff 
+wants to live more in contact with nature and realise his own dreams, which are not 
+influenced by society to the same degree. All in all, the relationship between Willy and Biff is 
+bad because of the gap between the world inside the character’s heads and reality when it 
+comes to how they see themselves and each other. 
+Sources: 
+Benziman, Galia. “Success, Law, and the Law of Success: Reevaluating ... - JSTOR.” 
+Jstor.org, Te Laviv University, 2005, https://www.jstor.org/stable/20064631. 1185 words
+3
+Chavkin, Allan, and Nancy Chavkin. "Looking at Arthur Miller's Death of a Salesman ... -
+JSTOR." Jstor. The Arthur Miller Jurnal, 2015. Web. 28 Feb. 2022.
+Miller, Arthur, Claire Conceison, and Susan Abbotson. Death of a Salesman. 1st ed. Methuen 
+Drama, 2022. Print.
+ 
+The white heron
+•	Silvia, a refugee from an industrial town
+•	Metts a boy/man, charming and delightful out hunting birds
+•	Lives in the forest with her grandma: peace. 
+•	Boy meets girl: but love has a price. 
+•	Heteroseksual norms and expectations, boy gets girl, wants to callange this. The ommunity with animals and women goes before the boy. 
+•	Silvia climbs into the tree: realisations, she knows what is important to her. 
+•	Has many traits of romanticism:  nature, purity, regional. 
+•	The word girl is often used for the main character, but was used differeltly back then, could be  a young girl or she culd be 30. 
+The dead by James Joice 
+•	Modernist writer. 
+•	James Joice: distanced himself from his own upbringing in the catholic church. 
+•	The story is form his collection named “Dubliners”. 
+•	Follows people from different background, freedom of choice, freeing yourself from your obligations, turning your back to traditions. 
+•	The dead: introducing the people arriving at the party, their experctations of the party and each other.  Superficial socialisation.  
+•	Gabriel: intellectual and a bit pretansious, some critics see him as another version of Joice. 
+•	
+Notes for oral exam
+WEB Du Bois, The Souls of Black Folk
+The 19th century is marked by the struggles and fight for civil rights, particularly for POC. “How does it feel to be a problem?” Feeling a need to compete with white people. Does not want to make the US African, or make black people more “white”, but make it possible to be both.                                                                                               Are expected to be contnt with what they have, and to work hard, without getting the same rights and opportunities as everyone else.  The EMmansipation: black people had the right to vote and stand for congress, but lost these rights at the beginning of the 20th century. Bokarty Washington:fought for the rights of black people,, crated a bridge between the south and black people, Praises what he managed to do throughout his life, but also critisixing him. Wa The feelings of the oppressed group may take three direction: revenge, adjustment, self realisation and self development despite the circumstances. All have been seen in American history. Washington almost accepts the alleged inferiority of black people, policy of submission, only way to survive. Were willing to give up political rights and the rights for higher education. 
+The White Hearon By Sarah Orme Jewett
+Sylvia, lives in the country with her grandma, afraind of folk, likes her life in isolation. Meets a boy hunting birds, stays at their house for the night. Sylvia is very fond of birds, and hasm, according to the grandma, a special connection to them. Wants to use her for hunting them. The boy is looking for the white heron, and Sylvia knows where it is. However decides to show the bird to the boy, She eventually decides to not tell him of the bird. Hence choosing the bird over the boy. This is a symbol of how nature c an win over heterosexual norms for a story. The story ends with the narrator reflecting on what could have been. If the choisce she  made would give her more happiness than chooseing to join the boy
+The dead by James Joice
+1014, Gabriel arrives late, writes unionist article, delivers a speech on irish hospitality. Gretha is gold and distant, reminds her of her former lover, Gabriel, her husband, feels that he can never be to her what he was. The characters in the story belongs to the upper class, however it is apparent that they have somehow lost their money, seeing as some of the family members now are working to make a living. Neverthelesss, the family struggles to keep up their appearance of wealth. 
+
+Mrs. Dalloway By Virginia Woolf
+Mrs. Dallowey is a novel about Clarissa, an upper middle calss society hostess preparing for a party. The novel follows her through the they as she is preparing for the party. Another main character is Septimus, a world war 1 veteran, truggeling with ptsd. The novel exemins the flawed ways in which mentally ill people were threated bak then. The themes of the novel are the meaning of life, death, love, both forbidden and conventional, marriage, feminism, mental health and the aftermath of war. 
+William C Williams, Spring and all
+Spring and all is a poem about how spring arrives gradually, there are a lot of contrasts and metaphors to underline this, the hospital, the naked bodies. Spring is <a time for rebirth. 
+The red wheelbarrow
+The red weelborrow is a ery short poem. The red wheelborrow can be seen as a symbol of farm work. It can also represent things that we take forgranted but that are very important to how e manage our daily lives. It is glazed with rain water, meaning that it has been left out in the bad weather. This can be a symbol of how unapreaciated it is. 
+This is just to say
+A confession, funny, forbidden, but good, better because stolen?
+Langston Hughes
+I, too
+I too is about racism. The narrator is a black man, he is not allowed to eat at the same teable as the white people when the people he live with have guests. The last part of the poem is more hopeful, he eats well and grows strong, meaning that he takes the negative aspects and turn them into something that will help him, and sees hope in that one day he will it at the teable when company comes. The poem starts with the sentence “I too sing America” and ends with “I too am America” which makes this a patriotic poem. 
+The weary blues
+Piano player in new York, pain and suffering in a racist societyIsolation, sadness, unhappy. 
+Yet do I Marvel by Countee Collens
+Yet do I marvel is about religion, suffering and reacism. The narrator sees gods ways as impossible to understand, but trusts that he makes the right dessisions. Yet, he wonders why god  would make a black man a poet and make him sing in a wourld where being black and raising your voice is so difficult. 
+Stopping by woods on a snowy evening, Robert frost
+Whos woods these are, what about the houses in the village, snowey, stopping in the middle of the forest, dark, pro9isis to keep, and mmiles to go before I sleep. Dreams and reality.
+Thirteen ways of looking at a blackbird
+The only moving thing is the moving eye of the blackbird, three blackbirds in a tree, nature
+The idea of order at key est
+A boat like a body, Air, summer without end, Solitude, singing sea. 
+Mina Loy, Feminist manifesto
+Sexual freedom, class, purity. TCritisizing that times feminism, don’t believe in economy or education or career. Two classes, not true, many ways of living life. A womens life is dependant on how well she marries.  More relponseble for the child than the man, sacrifice her need to be loved, 
+Marianne Moore, poetry
+I too dislike poetry, there are more important things, read it with contempt, you discover the genuine in it,  . 
+In the station of the metro zraPoundShort poems, two lines. 
+A rose for Emily, William Falkner
+About a women living alone in a big house, comes from money, most llikely former slave owners, her father was conservative, the people of the towd comes to collect takses from her, are not welcome in the house. A horrible smell, buys poisen, and man’s clothsd, has murdered the man whom she was supposed to marry and hidden him him in a bedroom. The house: symbol of selection, decline. Heir: turns gray after Homers dissapearence, symbolises her strength of will. The doilet set: hope and future. 
+Chinua Achebe, Sivil Peace
+Civil peace is a story about a man named Jonathan. Jonathan lives in Nigheria with his family, the story takes place right after the civil war, J has hidden away a bycycle which he starts using  in order to make money for his family, at night after a long day at work, their house is broken into and the family is robbed of all they have. Jonathan stays positive despites this and keeps trying to build a life for himself and his family. The story is about the struggles to survive in a country affected by war, and about staying optimistic when everything seems dark. 
+A far cry from Africa, by Derec Wallcott
+Poem about seeing things from different perspectives. About the fight for independence in Kenya, The Mau Mau vs. the British, brutality of war to those who are experiencing it, does not affect the ccupiers, who only see what happens as statistics. 
+The quest for black claveringi
+About a professor who wants to discover something new in order to make him respectable, goes to an island to find a giant snale, he is very arrogant and believes that he can overcome this challenge easily and that he is worth more than the creatures he is searching for However, when arriving at the island and finding the snails, he discovers that they are more dangerous than he thought. His arrogance ends up leading to his end. 
+
+Sylvia Plath
+Morning song
+Birth, new sttue in a museum, we stand blanc as walls, Positive. 
+Lady Lasarus
+The bible, dies once every ten years, and rises again. Describes her body, ten the first time it happens, next time she wanted it, dying is an art, Ido it exceptionally well, real, I have a call, 
+The waking
+Willenelle, two lines repeating, repetition, many similar sounds. 
+Do not go gentle into that good night
+Fighting against the light, day, do not go gentle into that good night. Do not surrender to do death.  Acceptance vs. resistance. 
+White noise, airborn toxic event, by Don DeLillo
+Heinrik, a collage professor living with his family, hears of an accident, but firmly believes that it won’t affect him baecause he is a collage professor, and these types of events does not concern people like himself.  However, after a while, they evacuate, despite his wishes. On the radio they are telling of symptoms from being in contact with the toxic event, his young daughter starts experiencing these symptoms. The others are sure that this is jost placebo effect, because she just heard about them on the radio. They arrive at the evacuation camp, one of the workers states that they are using this event in order to practise, post modernism.  His son is talking to the crowd. 
+Salman Rushdie, The prophet’s hair. 
+Short story starting with Huma hiering a thief. The reason for this is that their father has accidentally stolen the prophets hair, which is a relic that will give tohe holder fortune or disaster. The hair makes Hashim violent and radical in his faith, however he is a money lendr operationg with an extremely high interest rate, which is highly immoral in Islamic belief. He beats his family and make them join him in his extreme inturpritation of his faith. When the thief tries to steal the hair, Hashim becomes violent and accidentally kills his daughter, the thief runs away, and because of his contact with the hair lock is restored up on the family. 
+Autobiography of Red, Anne Carson
+A novel in verse, a mix between Greek mythology and modern literature . Geryn and Herakles, sexual relationship, heartbreak, coming of age. Partly translation, but a very free one. Consists of proes, essay, poetry, myth. 
+Task A
+The American dream is the idea that everyone, regardless of where or in which class they were born, can achieve their own version of success by working hard and taking risks.    Throughout American history until today, the American dream has been  an important value and a heavily debated topic in U.S. society. This essay will discuss the historical development of the American dream. It will also discuss the meaning and position of the American dream, both for the population in general and to different racial groups. 
+The Idea of the American dream has always been a part of U.S. society. Even though the term “American dream” did not show up until 1931 in James Truslow Adams’ best selling book “The Epic of America”, there is not doubt that the American dream has roots that can be traced back centuries before this. Tone example of this is the Declaration of Independence from 1776, which stated that every man is born free and equal and are with certain rights such as the right to life, liberty and the pursuit of happiness. During the 1900s, many Europeans immigrated U.S. Many of them chose to immigrate there bouth because of economic difficulties in their home countries and the belief in US as a land of opportunities. Another reason, is the homestead act of 1862, which allowed American citizens or people applying for American citizenship the chance to own land, on the condition that they were able to make a living from what they produced.   As a result, the US has become a country largely built up by immigrants. 
+The American dream still has a strong position in the US society today. However, it is widely known that the content of the dream has changed. According to statistics displayed in Dr. Samuel J. Abrams,   82% of Americans believed themselves to be either already living, or on their way to living the dream. This claim may sound unrealistic, due to increasing social differences. At the same time, opportunities of achieving social mobility through hard work are seeming to be diminishing. The explanation may be the change of consensus when it comes to the American dream. According to Abrams’ article, the values that people see as most essential for achieving the dream, have changed. Instead of traditional values like owning a home and having a successful career, people see values like having freedom to choose and having a good family life as more important. According to the statistics, 99% of the asked said that freedom to choose their own life was essential or important for achieving the American dream. While 98% said that having a good family life was essential or important. Americans having values of freedom and family is nothing new. The surprising part is how few people saw traditional values as essential to achieving the American dream. According to the statistics, only 43% of the asked saw having a successful career as essential and 48% saw it as important. These number may, to some, seem high. However, when taking to account the traditional description of the American dream, these numbers are surprisingly low. 
+The question as to why Peoples views on the American dream has changed. There are probably many different answers. On one hand it could be a result of less poverty and unemployment. According to the Census Bureau, the number of people living below the poverty line decreased by 1 million from 2017 until 2018. The poverty has also decreased every year since 2014. However, it was only this year that the number of people living below the poverty line was significantly lower than before the 2008 financial crisis. Since more people now live in a economically comfortable position, they no longer value being more successful and thus earning more money to the same extent. On another hand, this may be a result of increasing inequality. According to a research paper by Edvard Woolf  the top 1% richest people in the U.S. now earns  80 times more than the bottom 50%. Meanwhile, only three decades ago, the top 1% earned 27 times more than those at the bottom. Even though the poverty rate has decreased, 38 million Americans still live under the Poverty line. Bearing in mind that many Americans barely manage to stay over the line, one can assume that the traditional American dram is, for many, out of reach and that they therefore have created new values that they see as more important and attainable. Nevertheless, there are reasons to suspect that the American dream, regardless of what values you put into it, is not achievable for all American population groups. 
+One of these groups, are black and Hispanic people. According to the the statistics Abrams referred to in his article, only 17% of black people and 32% of Hispanics said that they had achieved the American dream. All through American history, racial minorities such as black people and Hispanics have been worse of when it comes to socioeconomic factors such as poverty and unemployment, which are important for achieving the American dream. Even though the gap has narrowed over the last decades, the differences are still significant. According to a study by Stanford University, only 41% of blacks and 45% of Hispanics own their own homes, compared with  71% of whites. This may not be problematic in itself, never the less, renting a home often leads to consequences such as having to use most of a monthly salary on paying rent and thus not being able to afford high tuition fees or health insurance for the children. There is also a huge gap between blacks, Hispanics and white people when it comes to salaries. According to the rapport, the median salary of a black person is 32 times lower than that of a white. The gap between Hispanics and whites increased from 29% in 1970, to 32% in 2010. It is, however, difficult to say whether the huge differences are caused by a smaller percentage of people in these groups being able to get higher education or if it is caused by more direct discrimination in the labour market.   To conclude, these staistics show why the American dream is less achievable for racial manorities. Even though they in theory hare just as free as the white majority, economic and social challenges makes achieving these goals much harder for these groups. 
+To summerise, the American dream has always been an important value in the US, from the declearation of independence  from 1776, until today. Over the years, there have been changes as to what values people see as important to the American people. A study found that moral values such as freedom and family was more important than more material ones, such as career and homeownership. Most Americans also seem to think that they already are, or are on their way to achieving the dream. However, these number do not apply to all Americans. Even though it has decreased, the gap between white people and racial minorities are still present. Fewer blacks and Hispanics than whites own a home. White people also have significantly higher salaries than people from these groups, making the American dream less attainable for them. 
+Sources:
+Retrieved 20.05.20
+  https://www.investopedia.com/terms/a/american-dream.asp 
+
+Retrieved 20.05.20 
+  https://snl.no/homestead 
+
+Retrieved 20.05.20
+  https://www.pewresearch.org/fact-tank/2017/10/31/most-think-the-american-dream-is-within-reach-for-them/ft_17-10-31_americandream_definitions/  
+
+Retrieved 28.04.20
+  https://www.youtube.com/watch?v=a9nL5_IPEIE 
+
+Retrieved  20.05.20
+  https://news.stanford.edu/2017/06/16/report-finds-significant-racial-ethnic-disparities/
+
+
+Innlevering 3
+Amalie Håland Aas
+Oppgave 1
+a)	1) Universell utforming som del av kontrakten. Når et selskap kjøper en nettside, utformes gjerne en kontrakt med bedriftens krav. Dette er en god mulighet til å sørge for at universell utforming blir en integrert del av nettsiden fra start, ettersom at det da er et tema før de som skal lage nettsiden har startet planleggingen. Slik kan du unngå at det blir problemer senere, noe det lett kan bli om en ikke tar stilling til det før lengre ut i prosessen. 
+2. Teste nettsiden på aktuelle brukere. Dette vil si at du ikke bare skal benytte automatisk testing, eller kun teste på en såkalt «normalbruker», men at du må teste på forskjellige brukergrupper med for eksempel ulik alder og funksjonsevne. 
+3. Teksting av videoer. Dette vil si at du skal tekste all tale på videoene på nettsiden din.  Dette kan i dag gjøres enkelt ved bruk av kunstig intelligens.
+b)	Prinsipp 1 – Mulig å oppfatte. Dette vil si at innhold på en nettside skal være fysisk mulig å få med seg for flest mulig uavhengig av eventuelle sansetap. 
+En av retningslinjene for dette prinsippet er at alt ikke-tekstlig innhold, med noen unntak, skal ha en tekstlig representasjon. Dette kan realiseres med å eksempelvis tekste videoer og ved å ha gode bildebeskrivelser. 
+Prinsipp 2 – Mulig å betjene. Dette går ut på at nettsiden skal være fysisk mulig å bruke for alle, både ved bruk av tastatur, mus eller andre hjelpemidler. 
+Retningslinje -nok tod. Denne retningslinjen går ut på at brukeren skal ha tid ti å få med seg innholdet uten tidsbegrensninger. Dette kan gjøres i praksis ved å gi brukeren muligheten til å slå av eller justere tidsbegrensning, slik at det er mulig å rekke å utføre det en skal dersom en trenger lengre tid fordi en for eksempel navigerer på siden kun ved bruk av tastatur. 
+Prinsipp 3 – Forståelig. Dette prinsippet går ut på at innholdet på siden skal være tydelig og presist slik at det er enkelt å forstå for alle. 
+Retningslinje: Inndata-hjelp. Denne retningslinjen beskriver hvordan nettsiden burde håndtere feil i inndata fra bruker. Retningslinjen sier at dersom det forekommer slike feil, skal siden gi en tekstlig beskrivelse av hvor feilen er. Et eksempel på dette kan være feil i innloggingsinformasjon.  Dersom en prøver å logge seg inn på nettsiden, og for eksempel taster inn feil passord, skal nettsiden gi beskjed om dette. 
+Prinsipp 4 – Robust
+At nettsiden skal være robust, vil i denne sammenheng si at nettsiden skal være god og pålitelig å bruke for brukere, uavhengig av hvordan de bruker nettsiden. Dette vil i praksis si at den skal være brukervennlig for folk som bruker motoriske hjelpemidler, talegjenkjenning eller skjermleser, i tillegg til øvrige måter å bruke nettsiden på.
+
+
+
+Retningslinje: Kompatibel. Dette vil si at nettsiden skal være mulig å bruke med forskjellige hjelpemidler.  I praksis kan en gjennomføre dette ve då sørge for å strukturere for eksempel HTML koden til nettsiden på en riktig måte. Dette vil blant annet si at en må kode ting for det de er, en overskrift skal eks være <h1> og ikke et avsnitt (<p>) og motsatt. I tillegg er det viktig å lukke taggene (</element>).
+
+
+b)	 Formålet med tilgjengelighetserklæring er å gjøre bedrifter/offentlige instanser oppmerksomme på hvor universelt utformet nettsidene deres er ved at de må publisere i hvilken grad nettsidene følger krav til universell utforming I tillegg gir tilgjengelighetserklæringen brukeren innsikt i dette, og muligheten til å komme med innspill/klage. 
+c)	Universell utforming: UU er et svært vidt begrep som rommer alt fra utforming av bygninger og uteområder, til digitale tjenester. Det går i denne sammenhengen ut på at digitale tjenester skal være mulig å bruke for alle. Blir ofte brukt for å diskutere tilgjengelighet for funksjonshemmede, men blir nå brukt i videre forstand, dvs. folk i forskjellige aldersgrupper osv
+Inkludering: Også et veldig omfattende begrep. I denne sammenhengen vil jeg beskrive det som at en må inkludere mange typer mennesker når en eksempelvis skal teste en digital tjeneste. En bruker ordet inkludering, ettersom at det er mange som ofte blir utelatt i en slik prosess, som for eksempel folk med ulike funksjonsnedsettelser. Ettersom at de også er en del av brukergruppen, kan dette medføre mindre brukervennlighet for denne gruppen 
+
+Tilgjengelighet: Tilgjengelighet vil jeg beskrive som et overordnet mål. I likhet med universell utforming vil det si at en tjeneste er tilgjengelig/mulig å bruke for flest mulig. Tilgjengelighet er derimot mer som et overordnet mål, der universell utforming er mer konkret og beskriver handlingene som skal til for at et system skal oppnå målet om tilgjengelighet. 
+GAP-modellen: En teori/modell som ser på funksjonsnedsettelser som et gap mellom samfunn og . individ.  I motsetning til den medisinske modellen, ser GAP på funksjonsnedsettelser som en «konflikt» mellom hva samfunnet krever av individer, og hva et individ kan få til. Eksempelvis «krever» samfunnet at en skal kunne gå i trapper ved at de finnes overalt, noe som kommer i konflikt med behovene til en person som er bevegelseshemmet.
+Oppgave 2
+a)	En av de viktigste problemstillingene som blir tatt opp er hvor mye forskjellige selskaper faktisk vet om deg, og hva denne informasjonen kan brukes til. I artikkelen beskrives et forsøk der en mann har blitt lurt til å tro at han har fått en rolle i en stor filmproduksjon. Dette klarte de i stor grad på grunn av personopplysninger de hadde samlet inn og analysert. Dette forsøket illustrerer hva konsekvensene kan være dersom disse opplysningene havner i feil hender. De kan blant annet brukes til svært persontilpasset svindel. 
+En annen problemstilling som blir tatt opp, er hvor enkelt det er å få tak i personopplysninger og hvor mye tilsynelatende små opplysninger kan fortelle om deg. Det blir henvist til et prosjekt der de hadde brukt enkeltpersoners likeklikk fra Facebook, og brukt dem til å predikere deres personlighet. Resultatene var svært nøyaktig. Dette er informasjon som også er veldig enkel å innhente. I videoen ble det diskutert hvor enkelt det pleide å være å innhente personopplysninger fra Facebook. Selv om dette har blitt strammet inn, er det fremdeles svært enkelt å få tak i slike opplysninger om andre.
+Jeg vil påstå at både artikkelen og videoen fortsatt er svært relevante i dag. Spesielt med tanke på tilgangen til kunstig intelligens vi har fått i samfunnet det siste året. Det er i dag veldig enkelt å for eksempel trene sin egen AI-modell, eller bruke en allerede eksisterende til å hente ut interessante funn om personopplysninger du har innhentet. 
+b)	Dersom du skal ta opp lyd i en gruppetime er det nødvendig å gi de som er til stede informasjon om dette. Ville da gjort det skriftlig, og bedt om deres underskrift, slik at jeg hadde hatt ordentlig samtykke. Stemmen til en person er en personopplysning, ettersom at den kan brukes til å identifisere enkeltpersoner.
+c)	
+1.	Overføring av personopplysninger er lovlig dersom landet opplysningene overføres til behandler dem på en forsvarlig måte. Personopplysningsloven, kapittel V
+2.	For å outsorce personopplysningene til et land som ikke behandler dem forsvarlig, må bedriften ha samtykke fra bruker. 
+3.	Vipps samarbeider med blant annet Facebook og Google.
+Oppgave 3
+a)	Dilemmaet stiller spørsmål ved hvem en førerløs bil skal være programmert til å redde dersom bilen skulle komme i en situasjon der det er umulig å unngå en ulykke. Den unge eller gamle, syklisten som bruker eller ikke bruker hjelm osv. Dette er et dilemma som er vanskelig å jobbe med. En løsning kan være å samle folk med forskjellig kompetanse, som filosofer, sosiologer, teknologer, jurister osv. for å diskutere dem og komme frem til noen råd de kan gi til myndigheter. 
+b)	Etisk refleksivitet handler om å se sin egen rolle i et prosjekt. Altså at man ser hvordan en selv gjennom rollen sin kan påvirke prosjektet når det kommer til etiske spørsmål og valg. I denne prosessen er det viktig å se denne rollen fra et annet perspektiv enn sitt eget. 
+c)	1. Andres innhold: ChatGPT er trent på svært store mengder data. All tekst den genererer er dermed hentet fra noe andre har skrevet. På den ene siden kan en argumentere med at en også henter informasjon fra et sted når en eksempelvis siterer fra en artikkel, men da vet man i det minste hvor teksten kommer fra, og en skriver ofte refleksjoner rundt det en har lært. Dette er ikke tilfellet dersom en får ChatGPT for å skrive hele teksten for deg. 2. Dette kan også gjøre det vanskeligere å velge å ikke bruke chatGPT. Dersom du og mange andre begynner å bruke chatGPT i stor grad under eksamen, kan det potensielt skape et press om at flere burde gjøre det samme, ettersom det ofte er mer effektiv, og slike språkmodeller ofte er svært gode til å løse en viss type oppgaver. 
+d)	Utfordringen besto av at folk kunne bli påvirket at svarene til ChatGPT på moralske dilemmaer, når de selv skulle ta stiling til dem. Forskerne fant også ut av at de som var med i undersøkelsen ikke var klare over at de hadde blitt påvirket. 
+
+Kjørstad, Elise (2023), Folk ble påvirket av ChatGPT da de svarte på moralsk dilemma
+Folk ble påvirket av ChatGPT da de svarte på moralsk dilemma (forskning.no)
+
+Oppgave 4
+	Dilemma 1:
+1.	Hva kan være et bedre alternativ til informert samtykke?
+2.	Kan informert samtykke brukes til å manipulere deltakeren ved at informasjonen er formulert på en måte som er vanskelig å forstå? 
+Oppgave 5
+Ved å jobbe med denne innlevering har jeg lært mer om universell utforming og etikk. Jeg synes det har vært interessant å reflektere over etiske spørsmål rundt utvikling av systemer, og å lære mer om konkrete måter å gjøre nettsider mer tilgjengelige på.
+
+
+Innlevering 2
+Amalie Håland Aas
+Oppgave 1
+a)	I denne undersøkelsen ønsker jeg å finne ut hvor ofte brukeren bruker systemet, og hvor brukervennlig brukeren synes systemet er. Jeg torr målgruppen til dette systemet, altså Vipps, er veldig bred. Den består av alle mennesker og bedrifter i Norge som ønsker en effektiv måte å sende og motta penger til og fra andre. 
+2. 1. Logg inn og se hvem du sist sendte/mottok penger fra/til
+2. Vipps en venn 100 kr.
+3. Spør personen om å få tilbake 100 kr. 
+4. Sjekk om alle regninger er betalt
+5. Betal en regning
+3) Deltakeren er en del av målgruppen.
+4) Deltakeren er et familiemedlem. Jeg tror ikke dette vil spille inn i særlig stor grad i denne undersøkelsen, men kan fort gjøre det om det er en mer omfattende og kompleks undersøkelse.
+5) Bruker spørreskjema.
+b) Vi benytter samtykkeskjema fordi vi samler inn personopplysninger. For å kunne bruke disse må vi ha samtykke fra brukeren, ettersom at opplysningene som blir samlet inn kan være identifiserende. Brukeren har også rett til å vite hva som blir samlet inn og hva opplysningene skal brukes til. 
+e) Etter gjennomføring av pilotundersøkelsen var min erfaring at det meste gikk bra. Likevel kommer jeg til å gjøre et par justeringer på de tingene som ikke fungerte optimalt. For det første skal jeg gjøre et par av spørsmålene i spørreskjema litt tydeligere, slik at det ikke blir noen misforståelser fra min eller bruker sin side. Jeg tenker også å gi brukeren muligheten for å svare med et tall mellom 1-5 på de fleste av spørsmålene, i stedefor med tekst. Denne endringen har mange fordeler og ulemper ved seg, men jeg har konkludert med at dette vil være et tiltak som gjør det enklere for brukeren å svare konkret på spørsmålene, og for meg når jeg skal jobbe med dataene senere. 
+f) Jeg startet undersøkelsen ved å gi brukeren spørreskjemaet jeg hadde laget. Brukeren gikk deretter inn på Vipps for å hhv. Sjekke hvem de hadde mottatt penger fra, sende og be om 100 kr. Sjekke og eventuelt betale en ubetalt regning. Deretter svarte brukeren på spørsmålene. Undersøkelsen tok ca. 15-20 minutter. 
+Etter å ha gjennomført undersøkelsen, erfarte jeg viktigheten av å stille gode og presise spørsmål. Dette er viktig både for at brukeren skal kunne svare så godt som mulig, og for at jeg skal kunne bruke svarene på en riktig måte ved en senere anledning.  Jeg erfarte også hvor viktig det er å gjennomføre en slik undersøkelse i en setting som er rolig og ikke inneholder noen distraksjoner, ettersom at resultatet av undersøkelsen kan bli svært påvirket dersom brukeren blir distrahert.
+Oppgave 2
+a)	Formålet med tabellen er å vise hvilke handlinger som er synlige for hvilke deltakere i  interaksjonen. Den gir en god og strukturert oversikt over hvilke handlinger som er synlige/usynlige for maskinen, og hvilke handlinger som er synlige eller ikke for bruker, noe som gjør det lettere å få en oversikt over hvordan handlingene påvirker hverandre. 
+De første kolonnene består av brukeren sine handlinger: Handlinger ikke synlig for maskin og handlinger synlig for maskin. Eksempler på disse kan hhv. Være at brukeren venter eller snakker med noen, eksempel på den andre kan være at brukeren trykker på en link på skjermen eller en knapp på tastaturet. De to neste består av «effekt synlig for bruker» og «design rasjonale». Eksempel på førstnevnte kan være effekten av at brukeren trykker på knappen. Eksempel på den siste kan være kode som kjører bak kulissene eller andre ting ikke brukeren kan observere. 
+
+
+Brukeren					Maskin
+Handling ikke synlig for maskin	Handling synlig for maskin	Effekt synlig for bruker	Design rasjonale
+Distraksjoner fra rommet brukeren sitter i.	Hvem brukeren velger å sende penger til	Pengene blir sendt etter at bruker trykker på Send.	Alt som skjer bak kulissene etter at brukeren trykker «Send». Kobling til banken, innhenting fra servere, koden som sender forespørsler til server osv. 
+			
+
+
+
+
+
+
+
+b)	Jeg oppfatter generelt interaksjonen mellom bruker og Vipps som god og effektiv. Det er tydelig hva en skal gjøre og en må ikke gjennom mange steg for å få gjort det en skal. Mener selv det ikke er så mye som kunne vært annerledes. Er veldig raskt  og brukervennlig. 
+Oppgave 3
+1.	Det er enklere å ikke bli distrahert dersom en ikke er koblet til internett. Dersom en gjør skolearbeid, eller noe annet en kanskje synes er litt kjedelig, er det svært enkelt å gi oppmerksomheten sin til internett i stedefor. Dette er ikke rart, ettersom at en der kan finne hva en vil, og ikke trenger å bruke tid på noe som en selv synes er kjedelig. 
+2.	En annen ting jeg la merke til er hvor ofte en sjekker bobil/sosiale medier til vanlig. Dersom en ikke tenker seg om er det veldig enkelt å gå raskt innom Instagram e.l. dersom en har litt ledig tid. Dette kan til sammen ta nokså mye tid fra dagen, selv om en ikke tenker over det. 
+3.	Når internett ikke var koblet til, fikk jeg plutselig mer tid. Det å koble av internett ga meg mer tid til å lese og trene, og til å gjøre kjedeligere ting som husarbeid, som jeg føler det ellers aldri er nok tid til. Dette er interessant, ettersom at det har fått meg til å tenke over hvor mye tid en bruker på internett i løpet av en dag. 
+
+Oppgave 4
+a)
+1)	Hvordan påvirker målingssamfunnet hvordan vi ser på oss selv og hverandre?
+2)	Hvordan påvirker målingssamfunnet måten vi bruker tiden vår på, som for eksempel fritidsaktiviteter og matvaner?
+b)	«many people used and got involved emotionally with the Eliza chatbot (Weizenbaum, 
+1976). Today, methods for ML have enabled a development of more advanced chatbots 
+that can learn from historical data (Jordan and Mitchell, 2015). ML involves training 
+a computer model by a set of training data and testing it with a (different) set of test 
+data (Broussard, 2018; Holmquist, 2017; Jordan and Mitchell, 2015). The quality and»
+Egen setning: 
+Denne artikkelen diskuterer hvor høy kvalitet chatbots brukt i det offentlige har, og hvor stort ansvar disse kan ta for svarene de gir. Artikkelen konkluderer med at de kan brukes til enkle oppgaver, men at de ikke på noen måte kan brukes som eneste kilde eller. De kan heller ikke bli gitt ansvar for svarene de gir. 
+Referanse:
+Verne, Guri B.; Steinstø, Tina; Simonsen, Linett; and Bratteteig, Tone (2022) "How Can I Help You? A chatbot’s answers to citizens’ information needs," Scandinavian Journal of Information Systems: Vol. 34: Iss. 2, Article 7.
+Available at: https://aisel-aisnet-org.ezproxy.uio.no/sjis/vol34/iss2/7
+
+Oppgave 5
+Ved å jobbe med denne oppgaven har jeg lært hvordan en gjennomfører og planlegger en brukerundersøkelse. Jeg har fått innsikt i hvordan en utformer et samtykkeskjema og hvilke loer og regler en må ta hensyn til når en lager et slikt. Det jeg synes har vært mest interessant er innsikten i hvordan prosessen rundt brukerundersøkelser er. I tillegg synes jeg et par av artiklene vi har lest har vært interessante. 
+
+Spørsmål til undersøkelse
+Ved unntak av spørsmål 1, gis svar på spørsmålene som et tall mellom 1-5, der 1 er veldig enkelt og 5 er veldig vanskelig. 
+1.	Hvor ofte bruker du Vipps?
+2.	Hvor enkelt synes du det er å finne frem i systemet?
+3.	Hvor vanskelig vil du si det er å finne det man skal når en går inn i appen?
+4.	Hvor enkelt synes du det er å sende penger?
+5.	Synes du det er enkelt å få oversikt over hvem som har sendt deg penger?
+6.	Hvor enkelt synes du det er å få oversikt over regningene dine?
+7.	Hvor enkelt synes du det er å betale regninger? 
+Figur 1 Bilde   gjennomførte undersøkelsen.
+
+
+Innlevering 2
+Amalie Håland Aas
+Oppgave 1
+a)	I denne undersøkelsen ønsker jeg å finne ut hvor ofte brukeren bruker systemet, og hvor brukervennlig brukeren synes systemet er. Jeg torr målgruppen til dette systemet, altså Vipps, er veldig bred. Den består av alle mennesker og bedrifter i Norge som ønsker en effektiv måte å sende og motta penger til og fra andre. 
+2. 1. Logg inn og se hvem du sist sendte/mottok penger fra/til
+2. Vipps en venn 100 kr.
+3. Spør personen om å få tilbake 100 kr. 
+4. Sjekk om alle regninger er betalt
+5. Betal en regning
+3) Deltakeren er en del av målgruppen.
+4) Deltakeren er et familiemedlem. Jeg tror ikke dette vil spille inn i særlig stor grad i denne undersøkelsen, men kan fort gjøre det om det er en mer omfattende og kompleks undersøkelse.
+5) Bruker spørreskjema.
+b) Vi benytter samtykkeskjema fordi vi samler inn personopplysninger. For å kunne bruke disse må vi ha samtykke fra brukeren, ettersom at opplysningene som blir samlet inn kan være identifiserende. Brukeren har også rett til å vite hva som blir samlet inn og hva opplysningene skal brukes til. 
+e) Etter gjennomføring av pilotundersøkelsen var min erfaring at det meste gikk bra. Likevel kommer jeg til å gjøre et par justeringer på de tingene som ikke fungerte optimalt. For det første skal jeg gjøre et par av spørsmålene i spørreskjema litt tydeligere, slik at det ikke blir noen misforståelser fra min eller bruker sin side. Jeg tenker også å gi brukeren muligheten for å svare med et tall mellom 1-5 på de fleste av spørsmålene, i stedefor med tekst. Denne endringen har mange fordeler og ulemper ved seg, men jeg har konkludert med at dette vil være et tiltak som gjør det enklere for brukeren å svare konkret på spørsmålene, og for meg når jeg skal jobbe med dataene senere. 
+f) Jeg startet undersøkelsen ved å gi brukeren spørreskjemaet jeg hadde laget. Brukeren gikk deretter inn på Vipps for å hhv. Sjekke hvem de hadde mottatt penger fra, sende og be om 100 kr. Sjekke og eventuelt betale en ubetalt regning. Deretter svarte brukeren på spørsmålene. Undersøkelsen tok ca. 15-20 minutter. 
+Etter å ha gjennomført undersøkelsen, erfarte jeg viktigheten av å stille gode og presise spørsmål. Dette er viktig både for at brukeren skal kunne svare så godt som mulig, og for at jeg skal kunne bruke svarene på en riktig måte ved en senere anledning.  Jeg erfarte også hvor viktig det er å gjennomføre en slik undersøkelse i en setting som er rolig og ikke inneholder noen distraksjoner, ettersom at resultatet av undersøkelsen kan bli svært påvirket dersom brukeren blir distrahert.
+Oppgave 2
+a)	Formålet med tabellen er å vise hvilke handlinger som er synlige for hvilke deltakere i  interaksjonen. Den gir en god og strukturert oversikt over hvilke handlinger som er synlige/usynlige for maskinen, og hvilke handlinger som er synlige eller ikke for bruker, noe som gjør det lettere å få en oversikt over hvordan handlingene påvirker hverandre. 
+De første kolonnene består av brukeren sine handlinger: Handlinger ikke synlig for maskin og handlinger synlig for maskin. Eksempler på disse kan hhv. Være at brukeren venter eller snakker med noen, eksempel på den andre kan være at brukeren trykker på en link på skjermen eller en knapp på tastaturet. De to neste består av «effekt synlig for bruker» og «design rasjonale». Eksempel på førstnevnte kan være effekten av at brukeren trykker på knappen. Eksempel på den siste kan være kode som kjører bak kulissene eller andre ting ikke brukeren kan observere. 
+
+
+Brukeren					Maskin
+Handling ikke synlig for maskin	Handling synlig for maskin	Effekt synlig for bruker	Design rasjonale
+Distraksjoner fra rommet brukeren sitter i.	Hvem brukeren velger å sende penger til	Pengene blir sendt etter at bruker trykker på Send.	Alt som skjer bak kulissene etter at brukeren trykker «Send». Kobling til banken, innhenting fra servere, koden som sender forespørsler til server osv. 
+			
+
+
+
+
+
+
+
+b)	Jeg oppfatter generelt interaksjonen mellom bruker og Vipps som god og effektiv. Det er tydelig hva en skal gjøre og en må ikke gjennom mange steg for å få gjort det en skal. Mener selv det ikke er så mye som kunne vært annerledes. Er veldig raskt  og brukervennlig. 
+Oppgave 3
+1.	Det er enklere å ikke bli distrahert dersom en ikke er koblet til internett. Dersom en gjør skolearbeid, eller noe annet en kanskje synes er litt kjedelig, er det svært enkelt å gi oppmerksomheten sin til internett i stedefor. Dette er ikke rart, ettersom at en der kan finne hva en vil, og ikke trenger å bruke tid på noe som en selv synes er kjedelig. 
+2.	En annen ting jeg la merke til er hvor ofte en sjekker bobil/sosiale medier til vanlig. Dersom en ikke tenker seg om er det veldig enkelt å gå raskt innom Instagram e.l. dersom en har litt ledig tid. Dette kan til sammen ta nokså mye tid fra dagen, selv om en ikke tenker over det. 
+3.	Når internett ikke var koblet til, fikk jeg plutselig mer tid. Det å koble av internett ga meg mer tid til å lese og trene, og til å gjøre kjedeligere ting som husarbeid, som jeg føler det ellers aldri er nok tid til. Dette er interessant, ettersom at det har fått meg til å tenke over hvor mye tid en bruker på internett i løpet av en dag. 
+
+Oppgave 4
+a)
+1)	Hvordan påvirker målingssamfunnet hvordan vi ser på oss selv og hverandre?
+2)	Hvordan påvirker målingssamfunnet måten vi bruker tiden vår på, som for eksempel fritidsaktiviteter og matvaner?
+b)	«many people used and got involved emotionally with the Eliza chatbot (Weizenbaum, 
+1976). Today, methods for ML have enabled a development of more advanced chatbots 
+that can learn from historical data (Jordan and Mitchell, 2015). ML involves training 
+a computer model by a set of training data and testing it with a (different) set of test 
+data (Broussard, 2018; Holmquist, 2017; Jordan and Mitchell, 2015). The quality and»
+Egen setning: 
+Denne artikkelen diskuterer hvor høy kvalitet chatbots brukt i det offentlige har, og hvor stort ansvar disse kan ta for svarene de gir. Artikkelen konkluderer med at de kan brukes til enkle oppgaver, men at de ikke på noen måte kan brukes som eneste kilde eller. De kan heller ikke bli gitt ansvar for svarene de gir. 
+Referanse:
+Verne, Guri B.; Steinstø, Tina; Simonsen, Linett; and Bratteteig, Tone (2022) "How Can I Help You? A chatbot’s answers to citizens’ information needs," Scandinavian Journal of Information Systems: Vol. 34: Iss. 2, Article 7.
+Available at: https://aisel-aisnet-org.ezproxy.uio.no/sjis/vol34/iss2/7
+
+Oppgave 5
+Ved å jobbe med denne oppgaven har jeg lært hvordan en gjennomfører og planlegger en brukerundersøkelse. Jeg har fått innsikt i hvordan en utformer et samtykkeskjema og hvilke loer og regler en må ta hensyn til når en lager et slikt. Det jeg synes har vært mest interessant er innsikten i hvordan prosessen rundt brukerundersøkelser er. I tillegg synes jeg et par av artiklene vi har lest har vært interessante. 
+
+Spørsmål til undersøkelse
+Ved unntak av spørsmål 1, gis svar på spørsmålene som et tall mellom 1-5, der 1 er veldig enkelt og 5 er veldig vanskelig. 
+1.	Hvor ofte bruker du Vipps?
+2.	Hvor enkelt synes du det er å finne frem i systemet?
+3.	Hvor vanskelig vil du si det er å finne det man skal når en går inn i appen?
+4.	Hvor enkelt synes du det er å sende penger?
+5.	Synes du det er enkelt å få oversikt over hvem som har sendt deg penger?
+6.	Hvor enkelt synes du det er å få oversikt over regningene dine?
+7.	Hvor enkelt synes du det er å betale regninger? 
+Figur 1 Bilde   gjennomførte undersøkelsen.
+
+PDF-filen er åpnet på den siste siden som er lest. Sidetall 3
+Innlevering 1
+Amalie Håland Aas
+Oppgave 1
+For disse oppgavene har jeg valgt Vipps.
+a) Sluttbruker er meg selv. Jeg bruker vipps 3-4 ganger i uken fra smarttelefon 
+(iPhone). Jeg bruker som regel Vipps til å sende eller motta penger fra og til andre 
+enkeltpersoner, men bruker det også til å betale enkelte regninger og til å holde 
+oversikt over om noen skylder meg penger, eller om jeg skylder andre. Viktige 
+funksjoner er da muligheten til å sende og motta penger, samt muligheten til å be 
+om penger og betale regninger. 
+b) Eksempler på interessenter: Ettersom at Vipps krever at du logger in med norsk 
+BankID, vil denne gruppen gjerne begrense seg til individer, grupper og 
+organisasjoner som befinner seg i Norge. Eksempler kan være en enkeltperson 
+som ønsker å kunne sende penger på en effektiv måte, en bedrift som vil gjøre det 
+enklere for kunder å betale regninger. En gruppe kan være alle i Norge over 15 år, 
+som forholder seg mye til penger. Vippsledelsen er også en interessent, for dem 
+er det viktigste å tjene penger. For å gjøre dette er de avhengig av å levere en 
+konkurransedyktig tjeneste på kortest mulig tid. Utviklerne har som mål å lage en 
+mest mulig robust tjeneste, med fokus på sikkerhet, og minst mulig feil i 
+programvaren. Noe som kan komme i konflikt med ledelsens ønske om 
+effektivitet. Designerne vil ha som mål å lage et system som er mest mulig 
+brukervennlig, noe som også er en interesse for ledelsen og brukerne. 
+c) Se nederst i oppgaven. 
+D ) Positive relasjoner: Både brukerne og de som har laget systemet har fordel av at 
+det er oversiktlig og enkelt å bruke. For de som skal profittere på systemet er det 
+avgjørende at brukerne velger nettopp deres produkt, da er det avgjørende at 
+systemet er brukervennlig. 
+Konflikter: En konflikt kan oppstå mellom behovet for et gjennomgående godt 
+system, og behovet for effektivitet. De som eier selskapet vil ofte levere så raskt så 
+mulig, og at systemet skal være enkelt å bruke. Ettersom at det tar tid å skape et slikt 
+system, blir det vanskelig for utviklere etc. å tilfredsstille disse kravene. I tillegg er det 
+ofte slik at systemer som er svært enkle å bruke, ikke er like sikre som de burde være. 
+e) Spørsmål til artikkel:
+1. Hvordan kan en best definere brukerens reelle behov?
+2. Hva er viktig å ha med i et rikt bilde for at det skal kommunisere det du ønsker, og 
+samtidig unngå at det blir for detaljert? 
+Samspilla) Påstand 1:
+Jeg mener denne påstanden stemmer godt. Et eksempel på dette er den økte bruken 
+av kunstig intelligens. Det siste året har bruken av kunstig intelligens økt blant 
+befolkningen. Dette har forandret måten mange tenker rundt eksempelvis kreativitet. 
+I dag har vi AI som kan svare på komplekse spørsmål fra brukeren, og generere alt fra 
+realistiske bilder til masteroppgaver. Dette har fått samfunnet til å tenke annerledes 
+rundt hva det vil si å skape noe, og hvem som eier AI-genererte bilder, tekster osv.
+Et annet godt eksempel er forholdet mellom internett og politikk. De siste årene har 
+det vært flere tilfeller av at grupper eller land har blandet seg inn i andre land sine 
+valg ved hjelp av internett og sosiale medier. En viktig del av denne påvirkningen har 
+vært spredning av falske nyheter. Før internett hadde en noen få, store medieaktører. 
+Da var det enklere å holde styr på hva som var sant eller ikke, ettersom at det var 
+enkelt å oppdage feil eller falske nyheter. I dag kan hvem som helst opprette en 
+nettside der en ved hjelp av eksempelvis ChatGPT kan produsere så mange falske 
+nyhetsartikler en måtte ønske, og spre disse på sosiale medier som Facebook,TikTok 
+og Twitter/X. Dette er av mange beskrevet som en trussel mot demokratiet. 
+Et tredje eksempel er hvordan mennesker kommuniserer med hverandre. Der en før 
+måtte sende brev eller ringe med fasttelefon for å kommunisere med andre fra 
+avstand, er det i dag mange muligheter til å kontakte hvem du vil over hele verden i 
+løpet av sekunder. Mange mener dette er en positiv utvikling, ettersom at det åpner 
+muligheten for å bli kjent med mennesker en aldri ellers ville kommet i kontakt med, 
+imens andre mener det har gjort mennesker generelt mer isolerte, ettersom man 
+oftere blir hjemme i stedefor å møte folk fysisk. 
+b) Teknologi har endret hverdagen vår og samfunnet mye de siste årene. Netthandel 
+og strømmetjenester er eksempler på dette. Netthandel har gjort det enklere og 
+mer fleksibelt å handle for eksempel mat og klær. En trenger ikke lenger reise et 
+spesielt sted for å få tak i det en vil ha, og en har dermed tilgang på flere varer enn 
+før. Dette er en positiv endring for kundene, ettersom at det er blitt enklere å 
+handle. På en annen side, kan dette føre til økt forbruk, noe som er dårlig for 
+miljøet. Det gjør det også vanskeligere å drive små nærbutikker som ikke er del av 
+et større konsern. 
+Strømmetjenester har også blitt mer vanlig. I likhet med netthandel gir dette 
+brukerne mer tilgang og fleksibilitet. Dette har endret hverdagen og samfunnet på 
+både positive og negative måter. En positiv konsekvens er som sagt den økte 
+fleksibiliteten. Det er som oftest også billigere. Negative konsekvenser er at det 
+har gjort folk mer isolerte. Folk ser sjednere på ting sammen, og alle ser på 
+forskjellige serier. Dette kan føre til at folk får ferre referansepunkter, og på en 
+måte blir mer splittet. Når det kommer til strømming av musikk, vet vi at den lave 
+prisen på eksempelvis Spotify går på bekostning av artistene, som tjener svært 
+lite på denne strømmingen. Begge disse eksemplene fører til mange positive konsekvenser for kundene og 
+eierne av disse selskapene, men de har gjort forholdene til de som produserer 
+innholdet dårligere. 
+c) Argumenter:
+1. Teknologi har blitt en så stor del av samfunnet at det å drøfte hvordan det hele 
+henger sammen, er viktig for å forstå hvordan samfunnet fungerer.
+2. Dersom en vet hvordan dette fungerer, mtp. Maktstrukturer osv, kan en som 
+forbruker bli mer bevisst på hvordan en forbruker teknologi.
+3. Som utviklere, er det viktig at vi er bevisst på dette samspillet når vi utvikler 
+tjenester, slik at vi kan være kritiske til hvordan vi utvikler disse. 
+Oppgave 3
+a) Jeg har brukt forelesningsfoilene til å finne definisjoner på begreper. I tillegg har 
+jeg lest om temaet i de oppgitte notatene/artiklene.
+b) Har brukt Word til å skrive oppgaven, og Dia til å lage det rike bildet. 
+c) Det å bruke Dia til å tegne det rike bildet, har gjort tegningen mer strukturert, enn 
+dersom jeg hadde brukt eks penn og papir. Samtidig gjør programmet at 
+tegningen blir veldig teknisk, og kanskje ikke gir så mye rom for tolkning/refleksjon 
+fra mottakeren.
+d) Ved å jobbe med denne innleveringen har jeg lært mer om i hvor stor grad 
+samspill mellom brukere, utviklere, designere etc. påvirker utviklingen av et 
+system, og hvordan ulike interesser er med på å påvirke prosessen. Noe jeg synes 
+var tankevekkende og engasjerende er at noen har mye mer mat en andre, også i 
+utvikling av IT-systemer. Ettersom at teknologi er en så stor del av samfunnet i 
+dag, vil de med mest makt definere også denne utviklingen. 
+Rikt bilde, deloppgave 1cEt bilde som inneholder tekst, diagram, plan, line
+
+Automatisk generert beskrivelse
+ 
+Nora: (Pacing the room) The walls, they seem to close in upon me. I feel as though the very air conspires to suffocate my thoughts. (Pauses) Have you ever felt such a weight, Virginia?
+
+Virginia: (Seated by the window, gazing out at the storm) The mind, Nora, is an ocean vast and unfathomable. At times, it swells with waves of clarity, and at others, it is shrouded in a mist of uncertainty. I find solace in the fleeting moments of peace between the storms within.
+
+Edgar: (Emerging from the shadows, his voice low and resonant) Peace, you say? Ah, but what is peace but the lull before the inevitable descent into chaos? The heart, dear ladies, is a treacherous organ, harboring shadows that no light can pierce.
+
+Nora: (Turning to Edgar) You speak of chaos as if it were a lover you cannot part from. Is there no hope, then? No escape from this eternal dance with despair?
+
+Virginia: (Softly) Perhaps the escape lies not in fleeing from the shadows, but in embracing them. To see them for what they are – a part of our very essence. Can we not find beauty in the melancholy?
+
+Edgar: (Smiling darkly) Beauty in melancholy, indeed. There is a certain allure in the depths of sorrow, a poetry to the pain that binds us. It is in those darkest moments that we truly see the fragility of our existence.
+
+Nora: (Sitting down, her voice trembling) But how do we endure it? How do we continue to live, knowing that at any moment, the delicate thread that binds us to sanity might snap?
+
+Virginia: (Gently) We endure by finding meaning in the small things. The touch of a hand, the sound of rain against the window, the flicker of a candle's flame. These moments anchor us, remind us that we are alive, despite the shadows that loom.
+
+Edgar: (Nodding) Yes, it is the small moments that stave off the abyss. But beware, for even the brightest flame can cast the darkest shadow. And in that shadow, we must confront our deepest fears.
+
+Nora: (Resolute) Then let us confront them together. For in unity, perhaps, we can find the strength to withstand the storm.
+
+Virginia: (Smiling) Together, we can navigate the tempestuous seas of our minds. For it is in the company of kindred spirits that we find the courage to face the unknown.
+
+Edgar: (Looking at both with a hint of admiration) Very well. Together, we shall explore the shadows and the light. For in understanding both, we may yet find a semblance of peace.
+
+(The three characters sit together, the storm outside a mere whisper compared to the tempest within their souls. They share a moment of silent understanding, a brief respite in their journey through the darkness.)
